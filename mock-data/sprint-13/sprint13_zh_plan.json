@@ -1,0 +1,347 @@
+{
+  "plans": [
+    {
+      "id": "db5248c4-6f74-4ebb-a17c-6e0cc5417d07",
+      "title": "心智訓練 - 第十三週 (中文)",
+      "description": "七天中文心智訓練計劃，包含每日偈頌、經典指導、冥想、祈禱和心智訓練練習",
+      "image_url": "https://example.com/sprint13-mind-training-zh.jpg",
+      "total_days": 7,
+      "status": "PUBLISHED",
+      "subscription_count": 28,
+      "days": [
+        {
+          "id": "3f39a09b-d50c-45be-8a03-96ed3dd2b7c3",
+          "day_number": 1,
+          "title": "週一 - 珍視一切眾生",
+          "tasks": [
+            {
+              "id": "32414818-e893-431d-a3eb-b4cc529c4604",
+              "title": "每日偈頌",
+              "description": "心智訓練的每日偈頌",
+              "content_type": "TEXT",
+              "content": "我於一切有情眾,\n視之尤勝如意寶，\n願成滿彼究竟利，\n恆常心懷珍愛情。",
+              "estimated_time": 10
+            },
+            {
+              "id": "8e1852a1-d9ac-4ef3-a0fd-b7b07e868182",
+              "title": "Guided Scripture",
+              "description": "經典學習的視頻指導",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=tgYk8ojts-8",
+              "estimated_time": 20
+            },
+            {
+              "id": "10a19638-4ca8-4081-803c-990b654cd443",
+              "title": "Meditation",
+              "description": "冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=r1K_CkE1ddc",
+              "estimated_time": 15
+            },
+            {
+              "id": "8c307fc9-7a0e-456d-922a-9bb9a8b06d4f",
+              "title": "Prayer",
+              "description": "祈禱練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=CJ_-PxSqemI",
+              "estimated_time": 10
+            },
+            {
+              "id": "0a0a1a8e-de84-4068-a281-8f521746482c",
+              "title": "Mind Training",
+              "description": "視覺心智訓練練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1MhQsLe8d2Se55F65hN0Le5-Gppu45W4H",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "9eea0c38-067a-4f74-96a4-0a958f43bb3b",
+          "day_number": 2,
+          "title": "週二 - 謙遜與慈悲",
+          "tasks": [
+            {
+              "id": "254ae39b-8fef-44a9-8c44-0576a4f780dd",
+              "title": "每日偈頌",
+              "description": "心智訓練的每日偈頌",
+              "content_type": "TEXT",
+              "content": "隨處與誰為伴時,\n視己較諸眾卑劣，\n從心深處思利他，\n恆常尊他為最上。",
+              "estimated_time": 10
+            },
+            {
+              "id": "80091ecc-3ce1-4cfa-bf15-c02ddca712b7",
+              "title": "Guided Scripture",
+              "description": "經典學習的視頻指導",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=l89lfXe0oK0",
+              "estimated_time": 20
+            },
+            {
+              "id": "0ae22ff4-744f-4008-a698-1510f6428fb9",
+              "title": "Meditation",
+              "description": "冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=r1K_CkE1ddc",
+              "estimated_time": 15
+            },
+            {
+              "id": "de7a93d4-efc7-4f66-90fa-1e6e92335bc3",
+              "title": "Prayer",
+              "description": "祈禱練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=CJ_-PxSqemI",
+              "estimated_time": 10
+            },
+            {
+              "id": "4ca58a1e-ed97-4e6c-8cd1-7ca12e8f7103",
+              "title": "Mind Training",
+              "description": "視覺心智訓練練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1QMvsmawVOVpE8dqQgpLCxVRzzkGWutan",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "a8ae9915-7a0b-4528-a5b1-0c9376e19fac",
+          "day_number": 3,
+          "title": "週三 - 正念覺知",
+          "tasks": [
+            {
+              "id": "23012691-1708-4ac9-9f57-8a2692f239a5",
+              "title": "每日偈頌",
+              "description": "心智訓練的每日偈頌",
+              "content_type": "TEXT",
+              "content": "一舉一動觀自心,\n正當煩惱初萌生，\n危害自與他人時，\n願疾呵斥令消除。",
+              "estimated_time": 10
+            },
+            {
+              "id": "d080fdd6-392f-4505-8bff-e29567ed6605",
+              "title": "Guided Scripture",
+              "description": "經典學習的視頻指導",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=NkRN2ESCcYw",
+              "estimated_time": 20
+            },
+            {
+              "id": "bee32e10-d631-4143-994d-f67a54a364f3",
+              "title": "Meditation",
+              "description": "冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=r1K_CkE1ddc",
+              "estimated_time": 15
+            },
+            {
+              "id": "14165959-92db-4ee9-8dda-97e0d4cad54c",
+              "title": "Prayer",
+              "description": "祈禱練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=CJ_-PxSqemI",
+              "estimated_time": 10
+            },
+            {
+              "id": "f1e82f90-ef0e-42d7-94f1-330f889e12c7",
+              "title": "Mind Training",
+              "description": "視覺心智訓練練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1QMvsmawVOVpE8dqQgpLCxVRzzkGWutan",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "138ae1f5-0efb-43a3-987b-ad679cde7ce0",
+          "day_number": 4,
+          "title": "週四 - 困難的人是老師",
+          "tasks": [
+            {
+              "id": "eb16ee3a-9f56-4c8b-a762-56efa0d068df",
+              "title": "每日偈頌",
+              "description": "心智訓練的每日偈頌",
+              "content_type": "TEXT",
+              "content": "秉性邪惡眾有情，\n恆為猛烈罪苦迫，\n見時如遇大寶藏\n願恆惜此難得寶。",
+              "estimated_time": 10
+            },
+            {
+              "id": "8229bf88-11dc-492e-b27a-143897161613",
+              "title": "Guided Scripture",
+              "description": "經典學習的視頻指導",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=iTkY43cW9Nk",
+              "estimated_time": 20
+            },
+            {
+              "id": "b0ac2e68-ce42-4b66-a780-ec11a9840fef",
+              "title": "Meditation",
+              "description": "冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=r1K_CkE1ddc",
+              "estimated_time": 15
+            },
+            {
+              "id": "391dcf0b-d41a-4e22-8524-c7bc3c1d8ac6",
+              "title": "Prayer",
+              "description": "祈禱練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=CJ_-PxSqemI",
+              "estimated_time": 10
+            },
+            {
+              "id": "43c1e4f7-2b5d-4c48-8d61-b90282566a56",
+              "title": "Mind Training",
+              "description": "視覺心智訓練練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1shj38Ofi9jdFz2fzjS3Ga2dzXLwXPHzb",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "079b5c54-0aca-42b5-a5c3-7e125d5b324f",
+          "day_number": 5,
+          "title": "週五 - 取與施",
+          "tasks": [
+            {
+              "id": "905dd44a-d3be-4ae6-96a9-f2df093e3545",
+              "title": "每日偈頌",
+              "description": "心智訓練的每日偈頌",
+              "content_type": "TEXT",
+              "content": "他人出於嫉妒心，\n非理辱駡謗我等，\n虧損失敗我取受\n願將勝利奉獻他。",
+              "estimated_time": 10
+            },
+            {
+              "id": "7fae4d7b-bbed-48d0-b3cc-bfb7b73e2a4e",
+              "title": "Guided Scripture",
+              "description": "經典學習的視頻指導",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=XBiCI4JvJhY",
+              "estimated_time": 20
+            },
+            {
+              "id": "4d8d86a4-cf1e-4cf0-98fe-308e59640483",
+              "title": "Meditation",
+              "description": "冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=r1K_CkE1ddc",
+              "estimated_time": 15
+            },
+            {
+              "id": "b48e5170-99d9-4706-882d-2b2c3853d830",
+              "title": "Prayer",
+              "description": "祈禱練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=CJ_-PxSqemI",
+              "estimated_time": 10
+            },
+            {
+              "id": "e1bc9443-1ffa-4d40-bace-51d1ab4671dd",
+              "title": "Mind Training",
+              "description": "視覺心智訓練練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1Hux80R2OsVowZTLMgVOWwGz2vAJwyzly",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "8cd17763-9ffd-4f64-9463-2eb5744b3b20",
+          "day_number": 6,
+          "title": "週六 - 視敵人為善知識",
+          "tasks": [
+            {
+              "id": "b8fb546e-9feb-4e23-b178-c2538581c066",
+              "title": "每日偈頌",
+              "description": "心智訓練的每日偈頌",
+              "content_type": "TEXT",
+              "content": "吾昔饒益助某人,\n且曾深心寄厚望，\n彼雖非理妄加害，\n願視彼為善知識。",
+              "estimated_time": 10
+            },
+            {
+              "id": "ad81e1ec-cc02-4dd3-bd87-5e805856e115",
+              "title": "Guided Scripture",
+              "description": "經典學習的視頻指導",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=d9zxvmornTY",
+              "estimated_time": 20
+            },
+            {
+              "id": "1549fb8d-046b-4024-bb52-8ce3d3104860",
+              "title": "Meditation",
+              "description": "冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=r1K_CkE1ddc",
+              "estimated_time": 15
+            },
+            {
+              "id": "9bdd2057-c677-4dbf-95d0-62249627bd5d",
+              "title": "Prayer",
+              "description": "祈禱練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=CJ_-PxSqemI",
+              "estimated_time": 10
+            },
+            {
+              "id": "fd997523-56d2-4094-a8db-eea2177f76a4",
+              "title": "Mind Training",
+              "description": "視覺心智訓練練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1Hux80R2OsVowZTLMgVOWwGz2vAJwyzly",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "6721e507-b4c2-497a-b410-743510364482",
+          "day_number": 7,
+          "title": "週日 - 取與施的實踐",
+          "tasks": [
+            {
+              "id": "1e0cc375-382b-4c11-b39c-192ed62123bd",
+              "title": "每日偈頌",
+              "description": "心智訓練的最後偈頌",
+              "content_type": "TEXT",
+              "content": "無論直接與間接,\n願獻利樂於慈母，\n如母有情諸苦患，\n我願暗中自取受。",
+              "estimated_time": 10
+            },
+            {
+              "id": "2f1dd486-493c-4d22-c49d-203fe73234ce",
+              "title": "Guided Scripture",
+              "description": "經典學習的視頻指導",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=Vu3ArgIHx0M",
+              "estimated_time": 20
+            },
+            {
+              "id": "3a2ee597-5a4d-4e33-d5ae-314af84345df",
+              "title": "Meditation",
+              "description": "冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=r1K_CkE1ddc",
+              "estimated_time": 15
+            },
+            {
+              "id": "4b3ff6a8-6b5e-4f44-e6bf-425ba95456ea",
+              "title": "Prayer",
+              "description": "祈禱練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=CJ_-PxSqemI",
+              "estimated_time": 10
+            },
+            {
+              "id": "5c4gg7c9-7c6f-5f55-f7gf-536cb96567fb",
+              "title": "Mind Training",
+              "description": "最終視覺心智訓練練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=156tq1EfRLu_LSs4JK5RSzmoebeTpK_aE",
+              "estimated_time": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}

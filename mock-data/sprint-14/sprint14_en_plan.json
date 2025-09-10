@@ -1,0 +1,159 @@
+{
+  "plans": [
+    {
+      "id": "02d40fa2-f30a-4126-8bb1-9860e08135bc",
+      "title": "Vajrasattva Practice - Sprint 14 (English)",
+      "description": "Seven-day English Vajrasattva purification practice with daily mantras, guided teachings, meditation, and intention setting",
+      "image_url": "https://example.com/sprint14-vajrasattva-practice-en.jpg",
+      "total_days": 7,
+      "status": "PUBLISHED",
+      "subscription_count": 22,
+      "days": [
+        {
+          "id": "0d9e2727-338d-48bd-a601-1c81062fcb14",
+          "day_number": 1,
+          "title": "Monday - Beginning the Practice",
+          "tasks": [
+            {
+              "id": "f1efac25-3176-49ef-8b94-fa6e1e3faf59",
+              "title": "Verse of the day",
+              "description": "Daily Vajrasattva mantra practice",
+              "content_type": "TEXT",
+              "content": "Oṃ\nVajrasattva samaya manupālaya!\nVajrasattva, tvenopa tiṣṭḥa!\nDṛḍho me bhava!\nSutoṣyo me bhava!\nSupoṣyo me bhava!\nAnurakto me bhava!\nSarva siddhim me prayaccha!\nSarva karmasu ca.\nMe cittaṃ śrīyaṃ kuru hūṃ!\nHa ha ha ha hoḥ!\nBhagavān\nsarva tathāgata vajra mā me muñca!\nVajri bhava mahāsamaya sattva āḥ!",
+              "estimated_time": 15
+            },
+            {
+              "id": "b31b7f59-dda9-4fa5-b73b-95f4c0468315",
+              "title": "Go Deeper",
+              "description": "Video teaching on Vajrasattva practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=o0qNBF_kOrI",
+              "estimated_time": 25
+            },
+            {
+              "id": "ddb5bb10-403e-40d8-b0b6-011b4f3b91d9",
+              "title": "Meditation",
+              "description": "Audio guided meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=sIQCExYppmA",
+              "estimated_time": 20
+            },
+            {
+              "id": "290cce75-0f4a-41b7-98ad-f100f543915b",
+              "title": "My Intention for Today",
+              "description": "Daily intention setting exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1MViIA62rSBOXvDN_KBfsa8TcH61la4GV",
+              "estimated_time": 10
+            },
+            {
+              "id": "b9266527-1df7-4977-81c3-d73d59a6f057",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=12RMWs_J6EAEPMPyicYBtAcQN-04B3rpR",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "03faf839-f0e6-4320-8c05-ad29946b782e",
+          "day_number": 2,
+          "title": "Tuesday - Deepening Understanding",
+          "tasks": [
+            {
+              "id": "9a1485e7-087e-46e2-a1f1-a8729c111239",
+              "title": "Verse of the day",
+              "description": "Daily Vajrasattva mantra practice",
+              "content_type": "TEXT",
+              "content": "Oṃ\nVajrasattva samaya manupālaya!\nVajrasattva, tvenopa tiṣṭḥa!\nDṛḍho me bhava!\nSutoṣyo me bhava!\nSupoṣyo me bhava!\nAnurakto me bhava!\nSarva siddhim me prayaccha!\nSarva karmasu ca.\nMe cittaṃ śrīyaṃ kuru hūṃ!\nHa ha ha ha hoḥ!\nBhagavān\nsarva tathāgata vajra mā me muñca!\nVajri bhava mahāsamaya sattva āḥ!",
+              "estimated_time": 15
+            },
+            {
+              "id": "070df2e8-855f-4b21-8cfd-c3e17478ce63",
+              "title": "Go Deeper",
+              "description": "Video teaching on Vajrasattva practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=ewMWQo16BxY",
+              "estimated_time": 25
+            },
+            {
+              "id": "89bf022c-0809-4664-8110-05ca0e50bb4f",
+              "title": "Meditation",
+              "description": "Audio guided meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=JS63WAj_ssM",
+              "estimated_time": 20
+            },
+            {
+              "id": "ab888011-d3fb-4da2-97fb-04d325e73d0b",
+              "title": "My Intention for Today",
+              "description": "Daily intention setting exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1d0da3bt7bmephhgWYmmV9Ox-mv2lJw5s",
+              "estimated_time": 10
+            },
+            {
+              "id": "e1a11cb4-dfb5-401e-9439-3b81d945ba43",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=13jTu08U1edpghDFgfO9GrUq9jafuwR4j",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "cdcf48e1-4e3c-4468-b76d-d54101b8de98",
+          "day_number": 3,
+          "title": "Wednesday - Purification Focus",
+          "tasks": [
+            {
+              "id": "a8a46161-42f3-42f5-9d9d-1e0730c4a2b7",
+              "title": "Verse of the day",
+              "description": "Daily Vajrasattva mantra practice",
+              "content_type": "TEXT",
+              "content": "Oṃ\nVajrasattva samaya manupālaya!\nVajrasattva, tvenopa tiṣṭḥa!\nDṛḍho me bhava!\nSutoṣyo me bhava!\nSupoṣyo me bhava!\nAnurakto me bhava!\nSarva siddhim me prayaccha!\nSarva karmasu ca.\nMe cittaṃ śrīyaṃ kuru hūṃ!\nHa ha ha ha hoḥ!\nBhagavān\nsarva tathāgata vajra mā me muñca!\nVajri bhava mahāsamaya sattva āḥ!",
+              "estimated_time": 15
+            },
+            {
+              "id": "230a8193-cafe-4910-88fc-df22278ccb30",
+              "title": "Go Deeper",
+              "description": "Video teaching on Vajrasattva practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=zxMtKl6PWAc",
+              "estimated_time": 25
+            },
+            {
+              "id": "42147ff7-af2f-4b4f-a1b4-b284be8a3d5f",
+              "title": "Meditation",
+              "description": "Audio guided meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=VEAHQEX9WjU",
+              "estimated_time": 20
+            },
+            {
+              "id": "5f2e95b4-6dec-48da-ad13-f5a7868bd092",
+              "title": "My Intention for Today",
+              "description": "Daily intention setting exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1Km12KDMMoONNT2GfAsjZm-VpsTfWKZF2",
+              "estimated_time": 10
+            },
+            {
+              "id": "2a47d017-24c1-4032-818f-0139629d76a1",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1j4y9u2bF1CC4bkFqD0eec1UALGgeuF8Q",
+              "estimated_time": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}

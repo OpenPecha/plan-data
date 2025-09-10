@@ -1,0 +1,253 @@
+{
+  "plans": [
+    {
+      "id": "9fc9c6f0-f7cb-43be-8c49-c40aee988b6e",
+      "title": "藥師佛修持法 - 第十八週 (中文)",
+      "description": "七天中文藥師佛修持法，包含每日智慧、深入了解、禪修、持誦和今日任務",
+      "image_url": "https://example.com/sprint18-medicine-buddha-zh.jpg",
+      "total_days": 5,
+      "status": "PUBLISHED",
+      "subscription_count": 35,
+      "days": [
+        {
+          "id": "7c1aa39b-a802-4ca9-affa-b79e33473a7c",
+          "day_number": 1,
+          "title": "週五 - 護佑加持",
+          "tasks": [
+            {
+              "id": "41e75662-587a-4d2f-bbf7-dc6cb93c5bbc",
+              "title": "今日智慧",
+              "description": "護佑加持的每日智慧",
+              "content_type": "TEXT",
+              "content": "敵害病疫悉消除\n爭鬥平息身心樂\n財富自在壽命增\n所願如意皆成就\n恆常護佑無退失",
+              "estimated_time": 10
+            },
+            {
+              "id": "35a43b68-162f-47c3-9fb0-2acb76ea80cc",
+              "title": "深入了解",
+              "description": "藥師佛修持法的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rdG918bDUcY",
+              "estimated_time": 25
+            },
+            {
+              "id": "2e61cda9-2998-4d56-aea7-38faadd092f4",
+              "title": "禪修",
+              "description": "藥師佛禪修練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=nUWqxsENtG0",
+              "estimated_time": 20
+            },
+            {
+              "id": "76e57297-d539-43aa-a0cd-2c66d9371e05",
+              "title": "持誦",
+              "description": "藥師佛咒語持誦練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
+              "estimated_time": 15
+            },
+            {
+              "id": "ffe975a1-6083-4176-aabc-10e3fe6558df",
+              "title": "今日任務",
+              "description": "今日的實踐任務",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1MC_bfJ0x2S756WKiQBH6710KkizjA0nQ",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "b71fd24d-b077-466b-ba29-9fc3aa28cb65",
+          "day_number": 2,
+          "title": "週六 - 琉璃光王",
+          "tasks": [
+            {
+              "id": "06aac4b5-0329-4571-a8e9-775286fc3b30",
+              "title": "今日智慧",
+              "description": "琉璃光王如來的智慧",
+              "content_type": "TEXT",
+              "content": "於眾平等大悲薄伽梵\n僅聞其號惡趣諸苦滅\n能消三毒病苦藥師佛\n琉璃光王如來敬頂禮",
+              "estimated_time": 10
+            },
+            {
+              "id": "2fb83f97-5705-4423-b508-6e027025a776",
+              "title": "深入了解",
+              "description": "藥師佛修持法的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=EdwOCqbnt7c",
+              "estimated_time": 25
+            },
+            {
+              "id": "384582ba-a4f2-4c0a-ac32-f3a9520807dc",
+              "title": "禪修",
+              "description": "藥師佛禪修練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=nUWqxsENtG0",
+              "estimated_time": 20
+            },
+            {
+              "id": "f00d91f5-2e7b-4154-9dfc-1194744cbd47",
+              "title": "持誦",
+              "description": "藥師佛咒語持誦練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
+              "estimated_time": 15
+            },
+            {
+              "id": "b09595b5-b2a0-44af-aa37-37f85262bafb",
+              "title": "今日任務",
+              "description": "今日的實踐任務",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=11MZuFIj3xkiweyCZPkO58qqFKTzk1K6e",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "3ef90781-53a6-4b1a-9c2c-91daf045fa0d",
+          "day_number": 3,
+          "title": "週日 - 圓滿修持",
+          "tasks": [
+            {
+              "id": "625060f3-f4c3-4e10-b4e1-dfd1251623d3",
+              "title": "今日智慧",
+              "description": "圓滿修持的藥師佛咒語",
+              "content_type": "TEXT",
+              "content": "迭亞他 嗡 貝卡則 貝卡則 麻哈 貝卡則 拉雜 三木嘎迭 梭哈",
+              "estimated_time": 10
+            },
+            {
+              "id": "2880075a-e2b2-48ec-aea5-1710edb6a04d",
+              "title": "深入了解",
+              "description": "藥師佛修持法的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=0Sqm-M-GUTQ",
+              "estimated_time": 25
+            },
+            {
+              "id": "66e9438a-5cff-43b9-8f4d-5f0e3e5a4053",
+              "title": "禪修",
+              "description": "藥師佛禪修練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=nUWqxsENtG0",
+              "estimated_time": 20
+            },
+            {
+              "id": "880b727d-caea-43e4-a969-15b3ecdfa935",
+              "title": "持誦",
+              "description": "藥師佛咒語持誦練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
+              "estimated_time": 15
+            },
+            {
+              "id": "5c99dae5-56e1-4c8a-af6c-7530021cc22a",
+              "title": "今日任務",
+              "description": "今日的實踐任務",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1MC_bfJ0x2S756WKiQBH6710KkizjA0nQ",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "f0b66f3e-4c27-4046-a369-480d2c2458a1",
+          "day_number": 4,
+          "title": "週一 - 藥師佛咒語",
+          "tasks": [
+            {
+              "id": "82093acd-be15-47e2-af0b-ae6b3a208e30",
+              "title": "今日智慧",
+              "description": "藥師佛咒語的每日智慧",
+              "content_type": "TEXT",
+              "content": "迭亞他 嗡 貝卡則 貝卡則 麻哈 貝卡則 拉雜 三木嘎迭 梭哈",
+              "estimated_time": 10
+            },
+            {
+              "id": "f520dfa0-e2b0-4a3d-8531-4ae099b64d01",
+              "title": "深入了解",
+              "description": "藥師佛修持法的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=4bL-U780yPE",
+              "estimated_time": 25
+            },
+            {
+              "id": "83fcf796-0595-4067-9cba-2b3441fa021d",
+              "title": "禪修",
+              "description": "藥師佛禪修練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=nUWqxsENtG0",
+              "estimated_time": 20
+            },
+            {
+              "id": "3e4c8031-d228-4788-90f7-5998b0422275",
+              "title": "持誦",
+              "description": "藥師佛咒語持誦練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
+              "estimated_time": 15
+            },
+            {
+              "id": "7786c5d3-8b5d-4b5e-8aac-cde585cd7a67",
+              "title": "今日任務",
+              "description": "今日的實踐任務",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=11MZuFIj3xkiweyCZPkO58qqFKTzk1K6e",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "10810b58-67df-4006-bef6-1c148225a603",
+          "day_number": 5,
+          "title": "週二 - 治療祈願",
+          "tasks": [
+            {
+              "id": "47a5dd19-2d5d-42d5-9b25-0e8679442c35",
+              "title": "今日智慧",
+              "description": "藥師佛治療祈願的智慧",
+              "content_type": "TEXT",
+              "content": "願以此善速得證\n如來藥師佛果位\n一切眾生盡無餘\n悉皆安置彼剎土\n願諸病有情\n速脫疾病苦\n亦願眾生疾\n畢竟永不生",
+              "estimated_time": 10
+            },
+            {
+              "id": "6f294094-470e-48e2-9f39-64dfdb04100f",
+              "title": "深入了解",
+              "description": "藥師佛修持法的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=UbVkInws3kI",
+              "estimated_time": 25
+            },
+            {
+              "id": "ee3e3e63-0267-4e23-b655-557ad9cce285",
+              "title": "禪修",
+              "description": "藥師佛禪修練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=nUWqxsENtG0",
+              "estimated_time": 20
+            },
+            {
+              "id": "8fb4313a-a919-49a2-b926-20515ef7d256",
+              "title": "持誦",
+              "description": "藥師佛咒語持誦練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
+              "estimated_time": 15
+            },
+            {
+              "id": "63137045-d04b-439e-b2c5-32ad5a601beb",
+              "title": "今日任務",
+              "description": "今日的實踐任務",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1MC_bfJ0x2S756WKiQBH6710KkizjA0nQ",
+              "estimated_time": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}

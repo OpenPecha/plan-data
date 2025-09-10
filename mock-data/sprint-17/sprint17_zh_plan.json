@@ -1,0 +1,96 @@
+{
+  "plans": [
+    {
+      "id": "8808f25e-5013-41c8-95b9-5df7f6e80cc4",
+      "title": "克服瞋恚修持法 - 第十七週 (中文)",
+      "description": "兩天中文克服瞋恚修持法，包含每日智慧、深入了解、融入生活和今日任務",
+      "image_url": "https://example.com/sprint17-anger-management-zh.jpg",
+      "total_days": 2,
+      "status": "PUBLISHED",
+      "subscription_count": 24,
+      "days": [
+        {
+          "id": "0f2cff9d-d28d-4cc1-a749-a62ab30c8f41",
+          "day_number": 1,
+          "title": "週二 - 瞋恚的根源",
+          "tasks": [
+            {
+              "id": "764ea286-ffd1-44bd-8acd-441cb5047e4d",
+              "title": "今日智慧",
+              "description": "關於瞋恚根源的每日智慧",
+              "content_type": "TEXT",
+              "content": "作所不欲遮所欲\n瞋恚由斯二者生\n心不愉悅如飲食\n長養瞋心應摧伏",
+              "estimated_time": 10
+            },
+            {
+              "id": "28a4bd42-c851-4d15-8afd-75e668fbed40",
+              "title": "深入了解",
+              "description": "深入了解瞋恚的本質和對治方法",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=XMKjN94v3gE",
+              "estimated_time": 25
+            },
+            {
+              "id": "d296b40f-2c41-4a29-8365-22dea440eb84",
+              "title": "融入生活",
+              "description": "將智慧融入日常生活的實踐",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=e0m_J3LuTe4",
+              "estimated_time": 20
+            },
+            {
+              "id": "81e8727b-3749-4dce-934e-23ba722a8b66",
+              "title": "今日任務",
+              "description": "今日的實踐任務",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1SyyVwtNUVW_gDdIk8YbS5en00JlLNtB5",
+              "estimated_time": 15
+            }
+          ]
+        },
+        {
+          "id": "dd8ba3f3-b916-4e54-939c-aeb4dddf2040",
+          "day_number": 2,
+          "title": "週三 - 摧伏瞋心",
+          "tasks": [
+            {
+              "id": "a712da80-d2e0-4a26-a338-f71431370512",
+              "title": "今日智慧",
+              "description": "關於摧伏瞋心的每日智慧",
+              "content_type": "TEXT",
+              "content": "是故我應於此敵\n毀其糧秣令無餘\n唯除如是為我害\n此敵更無他事業",
+              "estimated_time": 10
+            },
+            {
+              "id": "01ab5623-9f1b-41be-943c-8a1ef4a540f9",
+              "title": "深入了解",
+              "description": "深入了解如何徹底摧伏瞋心",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=bGaxZDOlHAQ",
+              "estimated_time": 25
+            },
+            {
+              "id": "309f9686-af6f-47b7-ab85-cf98a1004f63",
+              "title": "融入生活",
+              "description": "將智慧融入日常生活的實踐",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=O4e1x4p2E7Q",
+              "estimated_time": 20
+            },
+            {
+              "id": "3841209d-ceb5-472e-926e-d18c9c0384da",
+              "title": "今日任務",
+              "description": "今日的實踐任務",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1uR8FuL-ym27wPv9Hw7hM53r0MoPiQ8yV",
+              "estimated_time": 15
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}

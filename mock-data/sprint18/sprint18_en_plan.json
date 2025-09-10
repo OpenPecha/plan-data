@@ -1,0 +1,253 @@
+{
+  "plans": [
+    {
+      "id": "9c6877c4-5e07-4e34-ad62-f085cb63b0f9",
+      "title": "Medicine Buddha Healing Practice - Sprint 18 (English)",
+      "description": "Five-day English Medicine Buddha healing practice with daily verses, deeper teachings, meditation, recitation, and practical application",
+      "image_url": "https://example.com/sprint18-medicine-buddha-en.jpg",
+      "total_days": 5,
+      "status": "PUBLISHED",
+      "subscription_count": 32,
+      "days": [
+        {
+          "id": "df452b4f-a168-4cc4-94ea-bcbcb65d737a",
+          "day_number": 1,
+          "title": "Wednesday - Protection & Blessing",
+          "tasks": [
+            {
+              "id": "43c4533c-af8a-432e-a4a0-89655c85dfe6",
+              "title": "Verse of the day",
+              "description": "Daily Medicine Buddha protection verse",
+              "content_type": "TEXT",
+              "content": "Avert enemies, harm, and epidemics,\nPacify all conflicts, expand bodily and mental bliss,\nIncrease wealth, dominion, grain, and lifespan,\nAccomplish all desired aims according to one's wishes,\nAnd always protect and guard without negligence.",
+              "estimated_time": 10
+            },
+            {
+              "id": "087f61c3-5cbe-4eaa-8a27-038541b4f7a1",
+              "title": "Go deeper",
+              "description": "Medicine Buddha practice video teaching",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=fusKR990UyE",
+              "estimated_time": 25
+            },
+            {
+              "id": "58fa44ff-a13c-474a-b6f1-3a2db8d07269",
+              "title": "Meditation",
+              "description": "Medicine Buddha meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://youtube.com/shorts/k4kzbi48SVc",
+              "estimated_time": 20
+            },
+            {
+              "id": "d5cc60c2-f261-4e4c-82cc-d1d517f97ff5",
+              "title": "Recitation",
+              "description": "Medicine Buddha mantra recitation",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/shorts/JoyGCOrgPjY",
+              "estimated_time": 15
+            },
+            {
+              "id": "9ca33216-5530-40d0-8eb4-a5359bd1b58b",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=19dDFtkhowkKg_mtTOGJXp9X_B4B_A6G7",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "49a49f09-4cc6-4961-8b1d-bba8cb5a74f8",
+          "day_number": 2,
+          "title": "Thursday - Lapis Lazuli Radiance",
+          "tasks": [
+            {
+              "id": "475003f7-c3ec-4977-9c1a-303f0c17ab06",
+              "title": "Verse of the day",
+              "description": "Praise to Medicine Buddha's lapis lazuli radiance",
+              "content_type": "TEXT",
+              "content": "Blessed One whose compassion extends equally to all,\nWhose very name, when heard, relieves the suffering of unfortunate rebirths,\nMedicine Buddha who heals the illness of the three poisons,\nI pray to your lapis lazuli radiance.",
+              "estimated_time": 10
+            },
+            {
+              "id": "484ed6ff-9b35-4cdb-b8e8-c21cfac4d4ea",
+              "title": "Go deeper",
+              "description": "Medicine Buddha practice video teaching",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=qy779fPrHEY",
+              "estimated_time": 25
+            },
+            {
+              "id": "1ea3fdef-f641-42eb-b130-112e5326c3eb",
+              "title": "Meditation",
+              "description": "Medicine Buddha meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://youtube.com/shorts/k4kzbi48SVc",
+              "estimated_time": 20
+            },
+            {
+              "id": "617e70b2-236e-4467-afcc-fa884cb87535",
+              "title": "Recitation",
+              "description": "Medicine Buddha mantra recitation",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/shorts/JoyGCOrgPjY",
+              "estimated_time": 15
+            },
+            {
+              "id": "d5ad444a-e627-4d5b-a951-7e8109315e7b",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1ImGalpW_1duxn4J7cxuWYqlFG0xBm-2X",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "1b6d8d21-edd9-4ac0-9e24-b192ae11ebac",
+          "day_number": 3,
+          "title": "Sunday - Perfect Practice",
+          "tasks": [
+            {
+              "id": "4c6eeb21-4250-47f7-a476-c9cce87a0142",
+              "title": "Verse of the day",
+              "description": "Perfect Medicine Buddha mantra",
+              "content_type": "TEXT",
+              "content": "Tayatha Om Bhekanze Bhekanze Maha Bhekanze\nRadza Samudgate Soha (Tibetan)\nTadhyatha Om Bhaisajye Bhaisajye Bhaisajya\nSamudgate Svaha. (Sanskrit)",
+              "estimated_time": 10
+            },
+            {
+              "id": "706dc037-5b8e-4633-bc2c-34e0f98139de",
+              "title": "Go deeper",
+              "description": "Medicine Buddha practice video teaching",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=VKlbbq3BdEI",
+              "estimated_time": 25
+            },
+            {
+              "id": "0699b762-7a22-432c-aa4b-11e77ceffe95",
+              "title": "Meditation",
+              "description": "Medicine Buddha meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://youtube.com/shorts/k4kzbi48SVc",
+              "estimated_time": 20
+            },
+            {
+              "id": "dd96b026-9006-48f9-9624-9e9bc6f7e327",
+              "title": "Recitation",
+              "description": "Medicine Buddha mantra recitation",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/shorts/JoyGCOrgPjY",
+              "estimated_time": 15
+            },
+            {
+              "id": "fd98bf18-70ca-4884-ac52-fa60724dec1c",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=19dDFtkhowkKg_mtTOGJXp9X_B4B_A6G7",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "71f01292-0386-4975-abf2-67e6856c2a3c",
+          "day_number": 4,
+          "title": "Monday - Medicine Buddha Mantra",
+          "tasks": [
+            {
+              "id": "10edadae-c2f8-489d-9fa0-d8d2d40ce179",
+              "title": "Verse of the day",
+              "description": "Medicine Buddha mantra in both traditions",
+              "content_type": "TEXT",
+              "content": "Tayatha Om Bhekanze Bhekanze Maha Bhekanze\nRadza Samudgate Soha (Tibetan)\nTadhyatha Om Bhaisajye Bhaisajye Bhaisajya\nSamudgate Svaha (Sanskrit)",
+              "estimated_time": 10
+            },
+            {
+              "id": "1d365cd4-13e0-4d3a-bd8a-0d4e97913df1",
+              "title": "Go deeper",
+              "description": "Medicine Buddha practice video teaching",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=HkuSCwRJJUo",
+              "estimated_time": 25
+            },
+            {
+              "id": "f4e0f57c-700a-4d94-bd45-b23d55f11ab8",
+              "title": "Meditation",
+              "description": "Medicine Buddha meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://youtube.com/shorts/k4kzbi48SVc",
+              "estimated_time": 20
+            },
+            {
+              "id": "8177b0e2-3823-4b06-9526-6754b1b7d0ec",
+              "title": "Recitation",
+              "description": "Medicine Buddha mantra recitation",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/shorts/JoyGCOrgPjY",
+              "estimated_time": 15
+            },
+            {
+              "id": "19d6003b-e3a2-4b29-9fe0-5b719117b5e8",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1ImGalpW_1duxn4J7cxuWYqlFG0xBm-2X",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "97cd5b53-debe-441d-9301-d29275241895",
+          "day_number": 5,
+          "title": "Tuesday - Healing Prayers",
+          "tasks": [
+            {
+              "id": "cb1e20e4-3e3b-449f-8df7-261c349b59dd",
+              "title": "Verse of the day",
+              "description": "Medicine Buddha healing aspiration prayer",
+              "content_type": "TEXT",
+              "content": "Through this positive energy, may I quickly\nAttain the realization of Medicine Buddha,\nAnd may I bring every single living being\nWithout exception to that same enlightened state.\nMay all beings who suffer from illness,\nHowever many there are, be swiftly freed from disease,\nAnd may all the sicknesses that afflict living beings never arise again.",
+              "estimated_time": 10
+            },
+            {
+              "id": "e5d5ab4e-308f-4d01-a755-c3e76209a8f9",
+              "title": "Go deeper",
+              "description": "Medicine Buddha practice video teaching",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=cTYvsrVtfAU",
+              "estimated_time": 25
+            },
+            {
+              "id": "c6ba7b79-72cd-434d-9a20-b920d8b7934b",
+              "title": "Meditation",
+              "description": "Medicine Buddha meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://youtube.com/shorts/k4kzbi48SVc",
+              "estimated_time": 20
+            },
+            {
+              "id": "e057305c-c10f-4bbb-b14e-3fd3ec194032",
+              "title": "Recitation",
+              "description": "Medicine Buddha mantra recitation",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/shorts/JoyGCOrgPjY",
+              "estimated_time": 15
+            },
+            {
+              "id": "58555a40-8f09-48ad-9157-b065966b584c",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=19dDFtkhowkKg_mtTOGJXp9X_B4B_A6G7",
+              "estimated_time": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}

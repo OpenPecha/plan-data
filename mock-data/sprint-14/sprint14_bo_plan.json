@@ -1,0 +1,159 @@
+{
+  "plans": [
+    {
+      "id": "3bf92af3-78d0-4214-a29d-c5cb986c152b",
+      "title": "Vajrasattva Practice - Sprint 14",
+      "description": "Seven-day Vajrasattva purification practice with daily verses, guided teachings, meditation, and intention setting",
+      "image_url": "https://example.com/sprint14-vajrasattva-practice.jpg",
+      "total_days": 7,
+      "status": "PUBLISHED",
+      "subscription_count": 18,
+      "days": [
+        {
+          "id": "e39d10d9-aa88-429f-a741-15893ea27d94",
+          "day_number": 1,
+          "title": "Monday - Beginning the Practice",
+          "tasks": [
+            {
+              "id": "96db7b95-f3c3-4b04-b1d2-410eaba00b69",
+              "title": "Verse",
+              "description": "Daily Vajrasattva mantra practice",
+              "content_type": "TEXT",
+              "content": "ༀ་བཛྲ་སཏྭ་ས་མ་ཡ། མ་ནུ་པཱ་ལ་ཡ། བཛྲ་སཏྭ་ཏྲྭེ་ནོ་པ། ཏིཥྛ་དྲཱྀ་ཌྷོ་མེ་བྷ་ཝ།\nསུ་ཏོ་ཥྱོ་མེ་བྷ་ཝ། སུ་པོ་ཥྱོ་མེ་བྷ་ཝ། ཨ་ནུ་རཀྟོ་མེ་བྷ་ཝ། སརྦ་སིདྡྷི་མྨེ་པྲ་ཡཙྪ།\nསརྦ་ཀརྨ་སུ་ཙ་མེ། ཙིཏྟཾ་ཤྲཱེ་ཡཾ་ཀུ་རུ་ཧཱུྃ། ཧ་ཧ་ཧ་ཧ་ཧོཿ བྷ་ག་ཝཱན།།\nསརྦ་ཏ་ཐཱ་ག་ཏ། བཛྲ་མཱ་མེ་མུཉྩ། བཛྲི་བྷ་ཝ་སརྦ་མ་ཧཱ་ས་མ་ཡ་སཏྭ་ཨཱཿ",
+              "estimated_time": 15
+            },
+            {
+              "id": "93c8d570-1c44-4a96-9577-8a4ea4ce1252",
+              "title": "Go Deeper",
+              "description": "Video teaching on Vajrasattva practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=dAMb-R1iDVg",
+              "estimated_time": 25
+            },
+            {
+              "id": "2b81034d-eab9-4177-abc7-7eae2329dacb",
+              "title": "Meditation",
+              "description": "Audio guided meditation practice",
+              "content_type": "AUDIO",
+              "content": "https://youtu.be/RfwWPmPxMCI",
+              "estimated_time": 20
+            },
+            {
+              "id": "a94ce7a3-3158-4089-b3fc-ee565205674a",
+              "title": "My Intention for Today",
+              "description": "Daily intention setting exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1uNzvVledk4o0HGXuAuoLCnymfc6dWcK4",
+              "estimated_time": 10
+            },
+            {
+              "id": "4cb43a4c-f31d-4e9a-a8fd-110a6f1351fb",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1vo0bUKXw3q6GpKLt36zAEbnpe8A0cz04",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "a50daaca-bd68-40cd-bbf7-76c6838d1c88",
+          "day_number": 2,
+          "title": "Tuesday - Deepening Understanding",
+          "tasks": [
+            {
+              "id": "bbccec63-ca8e-423c-8e16-17bd48e06408",
+              "title": "Verse",
+              "description": "Daily Vajrasattva mantra practice",
+              "content_type": "TEXT",
+              "content": "ༀ་བཛྲ་སཏྭ་ས་མ་ཡ། མ་ནུ་པཱ་ལ་ཡ། བཛྲ་སཏྭ་ཏྲྭེ་ནོ་པ། ཏིཥྛ་དྲཱྀ་ཌྷོ་མེ་བྷ་ཝ།\nསུ་ཏོ་ཥྱོ་མེ་བྷ་ཝ། སུ་པོ་ཥྱོ་མེ་བྷ་ཝ། ཨ་ནུ་རཀྟོ་མེ་བྷ་ཝ། སརྦ་སིདྡྷི་མྨེ་པྲ་ཡཙྪ།\nསརྦ་ཀརྨ་སུ་ཙ་མེ། ཙིཏྟཾ་ཤྲཱེ་ཡཾ་ཀུ་རུ་ཧཱུྃ། ཧ་ཧ་ཧ་ཧ་ཧོཿ བྷ་ག་ཝཱན།།\nསརྦ་ཏ་ཐཱ་ག་ཏ། བཛྲ་མཱ་མེ་མུཉྩ། བཛྲི་བྷ་ཝ་སརྦ་མ་ཧཱ་ས་མ་ཡ་སཏྭ་ཨཱཿ",
+              "estimated_time": 15
+            },
+            {
+              "id": "f7ee4334-1ff7-4f66-a5fa-a4263fb6f8bf",
+              "title": "Go Deeper",
+              "description": "Video teaching on Vajrasattva practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=AIqU8kQkM6s",
+              "estimated_time": 25
+            },
+            {
+              "id": "2ee8f4ea-e43d-4a61-89d6-4844e9c63b23",
+              "title": "Meditation",
+              "description": "Audio guided meditation practice",
+              "content_type": "AUDIO",
+              "content": "https://youtu.be/mbXbjToHsag",
+              "estimated_time": 20
+            },
+            {
+              "id": "7e1400d2-9dc9-4c6d-8fde-b84e809bf39d",
+              "title": "My Intention for Today",
+              "description": "Daily intention setting exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1UpDsFFtZbDZsp8I2p1fjbhUTShVYHwFW",
+              "estimated_time": 10
+            },
+            {
+              "id": "ef94cf4a-22eb-4d26-ae32-14f6f74287b3",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=111WKKsUnP9X_kugAtNjvPMhbvhxeHC1M",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "35abb888-6774-4d2f-b758-0d26978085a0",
+          "day_number": 3,
+          "title": "Wednesday - Purification Focus",
+          "tasks": [
+            {
+              "id": "70bacfb7-67a4-4407-a664-71c0d2ddcdbf",
+              "title": "Verse",
+              "description": "Daily Vajrasattva mantra practice",
+              "content_type": "TEXT",
+              "content": "ༀ་བཛྲ་སཏྭ་ས་མ་ཡ། མ་ནུ་པཱ་ལ་ཡ། བཛྲ་སཏྭ་ཏྲྭེ་ནོ་པ། ཏིཥྛ་དྲཱྀ་ཌྷོ་མེ་བྷ་ཝ།\nསུ་ཏོ་ཥྱོ་མེ་བྷ་ཝ། སུ་པོ་ཥྱོ་མེ་བྷ་ཝ། ཨ་ནུ་རཀྟོ་མེ་བྷ་ཝ། སརྦ་སིདྡྷི་མྨེ་པྲ་ཡཙྪ།\nསརྦ་ཀརྨ་སུ་ཙ་མེ། ཙིཏྟཾ་ཤྲཱེ་ཡཾ་ཀུ་རུ་ཧཱུྃ། ཧ་ཧ་ཧ་ཧ་ཧོཿ བྷ་ག་ཝཱན།།\nསརྦ་ཏ་ཐཱ་ག་ཏ། བཛྲ་མཱ་མེ་མུཉྩ། བཛྲི་བྷ་ཝ་སརྦ་མ་ཧཱ་ས་མ་ཡ་སཏྭ་ཨཱཿ",
+              "estimated_time": 15
+            },
+            {
+              "id": "07961d4f-d133-4833-a3f2-7386da7cda0d",
+              "title": "Go Deeper",
+              "description": "Video teaching on Vajrasattva practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=lUt32nHKUHk",
+              "estimated_time": 25
+            },
+            {
+              "id": "4a8e48ab-ef14-4a0c-b4db-c15d534dcf3a",
+              "title": "Meditation",
+              "description": "Audio guided meditation practice",
+              "content_type": "AUDIO",
+              "content": "https://youtu.be/TTjV-hZ3_eQ",
+              "estimated_time": 20
+            },
+            {
+              "id": "8fa6ec1c-cbab-4a05-bff0-3a42a60fd3f0",
+              "title": "My Intention for Today",
+              "description": "Daily intention setting exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=17mAFn_fPNwN7tnNspnKhL_sitqyqrmCh",
+              "estimated_time": 10
+            },
+            {
+              "id": "f59f0a58-16b5-4c69-b015-fe609d691348",
+              "title": "Bringing it to life",
+              "description": "Practical application guidance",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1I56jMTr_kbnMv0sy7HoI_fyO6u9JM0ll",
+              "estimated_time": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}

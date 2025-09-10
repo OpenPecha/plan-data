@@ -1,0 +1,159 @@
+{
+  "plans": [
+    {
+      "id": "329de11d-9854-4367-8dac-47486a80a0c5",
+      "title": "金剛薩埵修持法 - 第十四週 (中文)",
+      "description": "三天中文金剛薩埵淨化修持法，包含每日咒語、經典指導、冥想和意願設定",
+      "image_url": "https://example.com/sprint14-vajrasattva-practice-zh.jpg",
+      "total_days": 3,
+      "status": "PUBLISHED",
+      "subscription_count": 15,
+      "days": [
+        {
+          "id": "e1f95bfb-e3d8-4d1f-a4a9-542384522016",
+          "day_number": 1,
+          "title": "週一 - 開始修持",
+          "tasks": [
+            {
+              "id": "4b231dc6-2d12-4121-9945-de54e49b4c62",
+              "title": "每日咒語",
+              "description": "每日金剛薩埵咒語修持",
+              "content_type": "TEXT",
+              "content": "嗡\n邊雜薩埵薩瑪雅 瑪努巴拉雅 邊雜薩埵\n喋諾巴 地札則卓美巴哇 蘇埵卡唷美巴\n哇 蘇波卡唷美巴哇 阿努惹多美巴哇\n薩哇悉地美札雅剎 薩哇嘎瑪速札美 積\n當希哩呀 咕嚕吽 哈哈哈哈 後 巴嘎溫\n薩哇達他嘎達 邊雜瑪美穆雜 邊雜巴哇\n瑪哈薩瑪雅 薩埵 阿",
+              "estimated_time": 15
+            },
+            {
+              "id": "42d25774-4ff5-43fe-8d2d-5b32ecb70ac0",
+              "title": "Guided Scripture",
+              "description": "金剛薩埵修持法的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=kCezYqHug3o",
+              "estimated_time": 25
+            },
+            {
+              "id": "3e0d05e7-8039-4c9a-84eb-f62a9f877b06",
+              "title": "Meditation",
+              "description": "引導冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=slLmJEXG3VY",
+              "estimated_time": 20
+            },
+            {
+              "id": "7a4eba41-202d-4575-a801-9f1a950871cd",
+              "title": "My Intention for Today",
+              "description": "每日意願設定練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1Ylo33Is9CW18Jc7j1b2J95hathTKCDZO",
+              "estimated_time": 10
+            },
+            {
+              "id": "66c7a6f8-f5aa-444c-8f46-bec4621caa92",
+              "title": "Bringing it to life",
+              "description": "實際應用指導",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1Hv2Lsh6UOyu7YFuxWJYhZ5SgwLm1Uj1F",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "991674be-d94a-4d77-be84-eaaee18662db",
+          "day_number": 2,
+          "title": "週二 - 深化理解",
+          "tasks": [
+            {
+              "id": "8bd8b693-8b34-4069-8e62-e477a1d7cff7",
+              "title": "每日咒語",
+              "description": "每日金剛薩埵咒語修持",
+              "content_type": "TEXT",
+              "content": "嗡\n邊雜薩埵薩瑪雅 瑪努巴拉雅 邊雜薩埵\n喋諾巴 地札則卓美巴哇 蘇埵卡唷美巴\n哇 蘇波卡唷美巴哇 阿努惹多美巴哇\n薩哇悉地美札雅剎 薩哇嘎瑪速札美 積\n當希哩呀 咕嚕吽 哈哈哈哈 後 巴嘎溫\n薩哇達他嘎達 邊雜瑪美穆雜 邊雜巴哇\n瑪哈薩瑪雅 薩埵 阿",
+              "estimated_time": 15
+            },
+            {
+              "id": "e75c9184-f566-42fd-9630-42867d458dbc",
+              "title": "Guided Scripture",
+              "description": "金剛薩埵修持法的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=edHFRdGUZQ8",
+              "estimated_time": 25
+            },
+            {
+              "id": "cbb89d8c-2279-4ff2-8ddc-e9b14d3bf8f9",
+              "title": "Meditation",
+              "description": "引導冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=YOUvJi-4Y0I",
+              "estimated_time": 20
+            },
+            {
+              "id": "5c425852-6aea-4f33-91d4-c202cf4b9aad",
+              "title": "My Intention for Today",
+              "description": "每日意願設定練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1H-vUm7IZGwO5ZGPpLe9iERuwx-RQQ3x7",
+              "estimated_time": 10
+            },
+            {
+              "id": "1d549981-9d68-4029-becc-1fb332639856",
+              "title": "Bringing it to life",
+              "description": "實際應用指導",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1X-i7fOzN5mMEWkpFfwKs-M7lcohKQf4b",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "1e62e048-2164-42eb-97e9-0f797e9d190c",
+          "day_number": 3,
+          "title": "週三 - 淨化專注",
+          "tasks": [
+            {
+              "id": "d152b427-531c-44fa-a406-39c6724ee2d6",
+              "title": "每日咒語",
+              "description": "每日金剛薩埵咒語修持",
+              "content_type": "TEXT",
+              "content": "嗡\n邊雜薩埵薩瑪雅 瑪努巴拉雅 邊雜薩埵\n喋諾巴 地札則卓美巴哇 蘇埵卡唷美巴\n哇 蘇波卡唷美巴哇 阿努惹多美巴哇\n薩哇悉地美札雅剎 薩哇嘎瑪速札美 積\n當希哩呀 咕嚕吽 哈哈哈哈 後 巴嘎溫\n薩哇達他嘎達 邊雜瑪美穆雜 邊雜巴哇\n瑪哈薩瑪雅 薩埵 阿",
+              "estimated_time": 15
+            },
+            {
+              "id": "82c0d766-8870-472e-9b40-7b4daa146408",
+              "title": "Guided Scripture",
+              "description": "金剛薩埵修持法的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=3e5HLbPLuZI",
+              "estimated_time": 25
+            },
+            {
+              "id": "c4590120-2b3a-467d-a615-be8c9cd77889",
+              "title": "Meditation",
+              "description": "引導冥想練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=yzVmrpqqzSw",
+              "estimated_time": 20
+            },
+            {
+              "id": "499333b9-9758-43f4-a93b-2787e71191b5",
+              "title": "My Intention for Today",
+              "description": "每日意願設定練習",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=10INJvKbpThjOhHoXgoYzZtaB8w46Zluw",
+              "estimated_time": 10
+            },
+            {
+              "id": "93cf5d34-7c61-41bc-ac03-6489242594c9",
+              "title": "Bringing it to life",
+              "description": "實際應用指導",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1KaQRMlk3P_k5U3Y5p8C-EKoNPE2PuEPs",
+              "estimated_time": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}

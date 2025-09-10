@@ -1,0 +1,347 @@
+{
+  "plans": [
+    {
+      "id": "7b6a77f0-caaf-4e08-895d-ddd44af94ccc",
+      "title": "Mind Training - Sprint 13 (English)",
+      "description": "Seven-day English mind training program with daily verses, guided scriptures, meditation, prayer, and mind training exercises",
+      "image_url": "https://example.com/sprint13-mind-training-en.jpg",
+      "total_days": 7,
+      "status": "PUBLISHED",
+      "subscription_count": 32,
+      "days": [
+        {
+          "id": "03e33e6c-2a2a-481d-89da-70817b785ca4",
+          "day_number": 1,
+          "title": "Monday - Cherishing All Beings",
+          "tasks": [
+            {
+              "id": "43b85dae-deca-4b52-9142-cf3cbccb5f36",
+              "title": "Verse of the day",
+              "description": "Daily verse for mind training",
+              "content_type": "TEXT",
+              "content": "By thinking of all sentient beings\nAs more precious than a wish-fulfilling jewel\nFor accomplishing the highest aim,\nI will always hold them dear.",
+              "estimated_time": 10
+            },
+            {
+              "id": "0570b9f9-290e-4338-bf5a-a0428f080c6e",
+              "title": "Guided Scripture",
+              "description": "Video guidance for scripture study",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=z1nB5fIn3UY",
+              "estimated_time": 20
+            },
+            {
+              "id": "3ca60cb9-2a93-4add-a8fd-c3fa74384d4c",
+              "title": "Meditation",
+              "description": "Audio meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=JgaIwHIcRwc",
+              "estimated_time": 15
+            },
+            {
+              "id": "b968c4a0-a41d-4557-b293-f8241b417ff0",
+              "title": "Prayer",
+              "description": "Audio prayer practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rUxajfj9oSw",
+              "estimated_time": 10
+            },
+            {
+              "id": "78bdf550-d52c-4564-b788-019085419da8",
+              "title": "Mind Training",
+              "description": "Visual mind training exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1H8r8pspaXqnF-_bWT53cBPJww7_ebcvs",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "16e60505-d61b-406b-9b64-b96ee23872aa",
+          "day_number": 2,
+          "title": "Tuesday - Humility and Compassion",
+          "tasks": [
+            {
+              "id": "55f7e725-bfa7-43d5-88fc-6bb69acc094e",
+              "title": "Verse of the day",
+              "description": "Daily verse for mind training",
+              "content_type": "TEXT",
+              "content": "Whenever I'm in the company of others,\nI will regard myself as the lowest among all,\nAnd from the depths of my heart\nCherish others as supreme.",
+              "estimated_time": 10
+            },
+            {
+              "id": "99461e5c-097c-4380-925f-90de080fe5b3",
+              "title": "Guided Scripture",
+              "description": "Video guidance for scripture study",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=BsQ4b-AsEx0",
+              "estimated_time": 20
+            },
+            {
+              "id": "db805989-7920-445f-ac45-e9dec865b4c5",
+              "title": "Meditation",
+              "description": "Audio meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=Cbda8PjCxU0",
+              "estimated_time": 15
+            },
+            {
+              "id": "c666e1fe-7e84-457b-932e-d367a9c76dac",
+              "title": "Prayer",
+              "description": "Audio prayer practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rUxajfj9oSw",
+              "estimated_time": 10
+            },
+            {
+              "id": "20533818-1540-46a0-a665-948d1ce2ae73",
+              "title": "Mind Training",
+              "description": "Visual mind training exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1vmidX16Ux6jU9uPHtvWOK6tNjyRI3Ns2",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "b45aaad9-e50a-404b-9c9e-cbaac65335e4",
+          "day_number": 3,
+          "title": "Wednesday - Mindful Awareness",
+          "tasks": [
+            {
+              "id": "14746d22-8610-4c61-95f7-6527f3143763",
+              "title": "Verse of the day",
+              "description": "Daily verse for mind training",
+              "content_type": "TEXT",
+              "content": "In my every action, I will watch my mind,\nAnd the moment destructive emotions arise,l\nI will confront them strongly and avert them,\nSince they will hurt both me and others.",
+              "estimated_time": 10
+            },
+            {
+              "id": "42aa26b7-119b-4f0b-a665-6b32c3509df4",
+              "title": "Guided Scripture",
+              "description": "Video guidance for scripture study",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=f_MmPLkf5b4",
+              "estimated_time": 20
+            },
+            {
+              "id": "f1dc528c-534b-4f0d-a049-2269c36193fe",
+              "title": "Meditation",
+              "description": "Audio meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=wubVswyxYO8",
+              "estimated_time": 15
+            },
+            {
+              "id": "d998bb79-2684-4972-bc86-6a497921087a",
+              "title": "Prayer",
+              "description": "Audio prayer practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rUxajfj9oSw",
+              "estimated_time": 10
+            },
+            {
+              "id": "7a5bfc98-7a17-4e41-9422-df3b35f303ec",
+              "title": "Mind Training",
+              "description": "Visual mind training exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1UalgQJ4wq7g9O4nW6PM0tJEjQZ-3VZ07",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "17473f04-df11-42f0-8bad-4020bc239d5c",
+          "day_number": 4,
+          "title": "Thursday - Difficult People as Teachers",
+          "tasks": [
+            {
+              "id": "09e85bc3-e013-4b89-b2eb-08b1678fcd98",
+              "title": "Verse of the day",
+              "description": "Daily verse for mind training",
+              "content_type": "TEXT",
+              "content": "Whenever I see ill-natured beings,\nOr those overwhelmed by heavy misdeeds or suffering,\nI will cherish them as something rare,\nAs though I'd found a priceless treasure.",
+              "estimated_time": 10
+            },
+            {
+              "id": "462a1a5e-db37-4f4e-9e35-6f35ab4d0041",
+              "title": "Guided Scripture",
+              "description": "Video guidance for scripture study",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=f_MmPLkf5b4",
+              "estimated_time": 20
+            },
+            {
+              "id": "225b0f58-61ce-4979-a1e0-78397fa86c01",
+              "title": "Meditation",
+              "description": "Audio meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=9xw1MDCz2Ks",
+              "estimated_time": 15
+            },
+            {
+              "id": "41f7738d-66dd-4d56-80cc-0039b986d96e",
+              "title": "Prayer",
+              "description": "Audio prayer practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rUxajfj9oSw",
+              "estimated_time": 10
+            },
+            {
+              "id": "945ea200-478c-441e-a83c-8d664414cf0c",
+              "title": "Mind Training",
+              "description": "Visual mind training exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1shj38Ofi9jdFz2fzjS3Ga2dzXLwXPHzb",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "c191a85d-1d9f-496e-9ee3-716fdc2bab94",
+          "day_number": 5,
+          "title": "Friday - Taking and Giving",
+          "tasks": [
+            {
+              "id": "464047a6-052c-43e9-914b-3be762e4dba9",
+              "title": "Verse of the day",
+              "description": "Daily verse for mind training",
+              "content_type": "TEXT",
+              "content": "Whenever someone out of envy\nDoes me wrong by attacking or belittling me,\nI will take defeat upon myself,\nAnd give the victory to others.",
+              "estimated_time": 10
+            },
+            {
+              "id": "16198431-ad4b-4a03-a47b-9e742b0a5d23",
+              "title": "Guided Scripture",
+              "description": "Video guidance for scripture study",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=doQ8cqRkBqQ",
+              "estimated_time": 20
+            },
+            {
+              "id": "cd0e1db9-51b3-4193-8de8-d885d90a00d6",
+              "title": "Meditation",
+              "description": "Audio meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=-5ynMSKYXKs",
+              "estimated_time": 15
+            },
+            {
+              "id": "917f3176-c3f2-4c7d-ba0b-ac29b677dc98",
+              "title": "Prayer",
+              "description": "Audio prayer practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rUxajfj9oSw",
+              "estimated_time": 10
+            },
+            {
+              "id": "80cc5856-dba8-4a67-9d9e-4c5f99581ff5",
+              "title": "Mind Training",
+              "description": "Visual mind training exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1jV_dsep9bmNAHtJ_vU6hN9f-vqOqc5t9",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "27a07038-3807-4c19-98c7-03a3c0e79e99",
+          "day_number": 6,
+          "title": "Saturday - Taking and Giving Practice",
+          "tasks": [
+            {
+              "id": "0b7b5d6b-5064-40dd-b4b2-c2836fd15109",
+              "title": "Verse of the day",
+              "description": "Daily verse for mind training",
+              "content_type": "TEXT",
+              "content": "In brief, directly or indirectly,\nI will offer help and happiness to all my mothers,\nAnd secretly take upon myself\nAll their hurt and suffering.",
+              "estimated_time": 10
+            },
+            {
+              "id": "b75111bf-c694-4bcf-8db4-d1bde80ea09d",
+              "title": "Guided Scripture",
+              "description": "Video guidance for scripture study",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=Gk83Jw21LnU",
+              "estimated_time": 20
+            },
+            {
+              "id": "f71172f0-5625-4b9f-ba3e-0ce163ff637f",
+              "title": "Meditation",
+              "description": "Audio meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=s7tJsGDD5gs",
+              "estimated_time": 15
+            },
+            {
+              "id": "8bb0dd85-0ef9-4582-9bb6-894f11ab8dd6",
+              "title": "Prayer",
+              "description": "Audio prayer practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rUxajfj9oSw",
+              "estimated_time": 10
+            },
+            {
+              "id": "2623acd6-faa0-4b64-90d2-b320cf18fb0f",
+              "title": "Mind Training",
+              "description": "Visual mind training exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1mDrAqlkXHW3zXpGw4SFz5ICBuEDOIKlZ",
+              "estimated_time": 5
+            }
+          ]
+        },
+        {
+          "id": "5009c22e-66f2-4208-92b4-87e8f0537a13",
+          "day_number": 7,
+          "title": "Sunday - Freedom from Attachment",
+          "tasks": [
+            {
+              "id": "1e0cc375-382b-4c11-b39c-192ed62123bd",
+              "title": "Verse of the day",
+              "description": "Final day verse for mind training",
+              "content_type": "TEXT",
+              "content": "I will learn to keep all these practices\nUntainted by thoughts of the eight worldly concerns.\nMay I recognize all things as like illusions,\nAnd, without attachment, gain freedom from bondage.",
+              "estimated_time": 10
+            },
+            {
+              "id": "2f1dd486-493c-4d22-c49d-203fe73234ce",
+              "title": "Guided Scripture",
+              "description": "Video guidance for scripture study",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=HyuIBfnASlM",
+              "estimated_time": 20
+            },
+            {
+              "id": "3a2ee597-5a4d-4e33-d5ae-314af84345df",
+              "title": "Meditation",
+              "description": "Audio meditation practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=uC8PKSkeCuU",
+              "estimated_time": 15
+            },
+            {
+              "id": "4b3ff6a8-6b5e-4f44-e6bf-425ba95456ea",
+              "title": "Prayer",
+              "description": "Audio prayer practice",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rUxajfj9oSw",
+              "estimated_time": 10
+            },
+            {
+              "id": "5c4gg7c9-7c6f-5f55-f7gf-536cb96567fb",
+              "title": "Mind Training",
+              "description": "Final visual mind training exercise",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1CtSdp7OvJ1JdwRMwjzecZB0sK-M6F-p9",
+              "estimated_time": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}

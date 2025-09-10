@@ -1,0 +1,159 @@
+{
+  "plans": [
+    {
+      "id": "2e58512e-149c-402c-813d-278c2f90f423",
+      "title": "入菩薩行論不放逸品 - 第十六週 (中文)",
+      "description": "三天中文入菩薩行論不放逸品學習，包含每日偈頌、深入了解、晨間引導、睡前引導和融入生活",
+      "image_url": "https://example.com/sprint16-bodhisattva-way-zh.jpg",
+      "total_days": 3,
+      "status": "PUBLISHED",
+      "subscription_count": 28,
+      "days": [
+        {
+          "id": "a1d927f4-aed1-4c5e-89b0-9165cdd014b2",
+          "day_number": 1,
+          "title": "週一 - 珍惜閒暇",
+          "tasks": [
+            {
+              "id": "46943531-7eaa-4ec8-ae3c-3b5b8e10c702",
+              "title": "Verse",
+              "description": "入菩薩行論每日偈頌",
+              "content_type": "TEXT",
+              "content": "既得此閒暇\n若我不修善\n自欺莫勝此\n亦無過此愚",
+              "estimated_time": 10
+            },
+            {
+              "id": "f2248c06-85ec-4513-9628-65ec4bdce168",
+              "title": "深入了解",
+              "description": "入菩薩行論不放逸品的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=XhjsFEYQxOU",
+              "estimated_time": 25
+            },
+            {
+              "id": "0dc74f6b-6ace-4ba4-8d24-36e5dd192df5",
+              "title": "晨間引導",
+              "description": "晨間冥想引導練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=pIdpbDpsHtg",
+              "estimated_time": 15
+            },
+            {
+              "id": "2cd8832d-8d96-4307-bdb2-1687349cfe73",
+              "title": "睡前引導",
+              "description": "睡前冥想引導練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=l9agDt0o6OA",
+              "estimated_time": 15
+            },
+            {
+              "id": "c313ce35-36fc-482b-8ae7-5f19e65a0a2c",
+              "title": "融入生活",
+              "description": "實際應用指導",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1WxGk9sV-QTVlGwuLSn_GSmNj5h2_PKt_",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "2d23718a-792e-4565-b0b8-7552fa978870",
+          "day_number": 2,
+          "title": "週二 - 克服怠惰",
+          "tasks": [
+            {
+              "id": "689dbde8-e48d-448d-a1a4-ede87438fa54",
+              "title": "Verse",
+              "description": "入菩薩行論每日偈頌",
+              "content_type": "TEXT",
+              "content": "若我已解此\n因癡復怠惰\n則於臨終時\n定生大憂苦",
+              "estimated_time": 10
+            },
+            {
+              "id": "6ac6510f-7117-4048-a0a3-7381dec4a713",
+              "title": "深入了解",
+              "description": "入菩薩行論不放逸品的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=J6qkykG8IVE",
+              "estimated_time": 25
+            },
+            {
+              "id": "bbb92096-b644-4370-9fba-daba86b7a26e",
+              "title": "晨間引導",
+              "description": "晨間冥想引導練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=pIdpbDpsHtg",
+              "estimated_time": 15
+            },
+            {
+              "id": "5dfbe63d-f93d-4fdb-bb3b-3f0d59ed104c",
+              "title": "睡前引導",
+              "description": "睡前冥想引導練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=l9agDt0o6OA",
+              "estimated_time": 15
+            },
+            {
+              "id": "f20de288-730a-45d0-8e14-096cd2ffe3ac",
+              "title": "融入生活",
+              "description": "實際應用指導",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1WxGk9sV-QTVlGwuLSn_GSmNj5h2_PKt_",
+              "estimated_time": 10
+            }
+          ]
+        },
+        {
+          "id": "083eee89-aa27-4d3a-abb9-a9c7828558ff",
+          "day_number": 3,
+          "title": "週三 - 地獄之苦",
+          "tasks": [
+            {
+              "id": "a6af140d-0e1e-4318-b803-10b5107adbb9",
+              "title": "Verse",
+              "description": "入菩薩行論每日偈頌",
+              "content_type": "TEXT",
+              "content": "難忍地獄火\n長久燒身時\n悔火亦炙燃\n吾心必痛苦",
+              "estimated_time": 10
+            },
+            {
+              "id": "d238bb20-7d00-4fe6-8d6e-baa3c7650326",
+              "title": "深入了解",
+              "description": "入菩薩行論不放逸品的視頻教學",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=vaTRDMp4oB0",
+              "estimated_time": 25
+            },
+            {
+              "id": "5eaf1a19-eb63-4fc1-b7be-314b833b9dd1",
+              "title": "晨間引導",
+              "description": "晨間冥想引導練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=pIdpbDpsHtg",
+              "estimated_time": 15
+            },
+            {
+              "id": "94673dac-c8c4-434b-8c83-c81c6e2db4a4",
+              "title": "睡前引導",
+              "description": "睡前冥想引導練習",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=l9agDt0o6OA",
+              "estimated_time": 15
+            },
+            {
+              "id": "59c3d77c-f890-4074-aea6-1674a04df4d5",
+              "title": "融入生活",
+              "description": "實際應用指導",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1WxGk9sV-QTVlGwuLSn_GSmNj5h2_PKt_",
+              "estimated_time": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "skip": 0,
+  "limit": 20,
+  "total": 1
+}
