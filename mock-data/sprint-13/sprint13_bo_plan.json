@@ -2,12 +2,12 @@
     "plans": [
       {
         "id": "0b2dcd32-5274-4a03-85c7-edcecdbd8f5d",
-        "title": "Mind Training - Sprint 13",
-        "description": "Seven-day mind training program with daily verses, guided scriptures, meditation, prayer, and mind training exercises",
+        "title": "ཉིན་བརྒྱད་ཀྱི་ཉམས་ལེན་འཆར་གཞི། བློ་སྦྱོང་ཚིགས་རྐང་བརྒྱད་མ།",
+        "description": "འདི་ནི་རྗེ་བཙུན་ལངས་རི་ཐང་པ་ཆེན་པོའི་བློ་སྦྱོང་ཚིགས་རྐང་བརྒྱད་མའི་གདམས་ངག་ལ་བརྟེན་ནས་ཉིན་བརྒྱད་རིང་ལ་ཉམས་ལེན་འཆར་ཞིག་ཡིན།",
         "image_url": "https://example.com/sprint13-mind-training.jpg",
-        "total_days": 7,
+        "total_days": 8,
         "status": "PUBLISHED",
-        "subscription_count": 25,
+        "subscription_count": 15,
         "days": [
           {
             "id": "13d62085-044b-4671-9e9b-44fa4f04601a",
@@ -20,39 +20,39 @@
                 "description": "Daily verse for mind training",
                 "content_type": "TEXT",
                 "content": "བདག་ནི་སེམས་ཅན་ཐམས་ཅད་ལ། །་\nཡིད་བཞིན་ནོར་བུ་ལས་ལྷག་པའི། །\nདོན་མཆོག་སྒྲུབ་པའི་བསམ་པ་ཡིས། །\nརྟག་ཏུ་གཅེས་པར་འཛིན་པར་ཤོག །",
-                "estimated_time": 10
+                "estimated_time": 3
               },
               {
                 "id": "838ec497-8ed6-4df8-affb-324eca753971",
-                "title": "Guided Scripture",
+                "title": "ཞིབ་གཟིགས།",
                 "description": "Video guidance for scripture study",
                 "content_type": "VIDEO",
                 "content": "https://www.youtube.com/watch?v=oFPVuddzCVA",
-                "estimated_time": 20
+                "estimated_time": 4
               },
               {
                 "id": "fc434e75-c5be-428b-bb71-2b5e203adad3",
-                "title": "Meditation",
+                "title": "སྒོམ་སྒྲུབ།",
                 "description": "Audio meditation practice",
                 "content_type": "VIDEO",
                 "content": "https://www.youtube.com/watch?v=OhNwPPbTnBQ",
-                "estimated_time": 15
+                "estimated_time": 3
               },
               {
                 "id": "362cb786-c02e-4c84-887f-843e2969a047",
-                "title": "Prayer",
+                "title": "བཟླས་པ།",
                 "description": "Audio prayer practice",
                 "content_type": "VIDEO",
                 "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
-                "estimated_time": 10
+                "estimated_time": 4
               },
               {
                 "id": "c82fa55e-29f3-4b75-8c1a-cbf9153769a3",
-                "title": "Mind Training",
+                "title": "ཉམས་ལེན་དངོས།",
                 "description": "Visual mind training exercise",
                 "content_type": "IMAGE",
                 "content": "https://drive.google.com/uc?export=view&id=1NyLBQBxWj7XvxgMsolPL4smsq6jsf_gr",
-                "estimated_time": 5
+                "estimated_time": 2
               }
             ]
           },
