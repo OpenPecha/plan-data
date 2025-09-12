@@ -20,7 +20,7 @@
               "description": "關於瞋恚根源的每日智慧",
               "content_type": "TEXT",
               "content": "作所不欲遮所欲\n瞋恚由斯二者生\n心不愉悅如飲食\n長養瞋心應摧伏",
-              "estimated_time": 10
+              "estimated_time": 1
             },
             {
               "id": "28a4bd42-c851-4d15-8afd-75e668fbed40",
@@ -28,7 +28,7 @@
               "description": "深入了解瞋恚的本質和對治方法",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=XMKjN94v3gE",
-              "estimated_time": 25
+              "estimated_time": 12-15
             },
             {
               "id": "d296b40f-2c41-4a29-8365-22dea440eb84",
@@ -36,7 +36,7 @@
               "description": "將智慧融入日常生活的實踐",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=e0m_J3LuTe4",
-              "estimated_time": 20
+              "estimated_time": 1-2
             },
             {
               "id": "81e8727b-3749-4dce-934e-23ba722a8b66",
@@ -44,7 +44,7 @@
               "description": "今日的實踐任務",
               "content_type": "IMAGE",
               "content": "https://drive.google.com/uc?export=view&id=1SyyVwtNUVW_gDdIk8YbS5en00JlLNtB5",
-              "estimated_time": 15
+              "estimated_time": 1
             }
           ]
         },
@@ -59,7 +59,7 @@
               "description": "關於摧伏瞋心的每日智慧",
               "content_type": "TEXT",
               "content": "是故我應於此敵\n毀其糧秣令無餘\n唯除如是為我害\n此敵更無他事業",
-              "estimated_time": 10
+              "estimated_time": 1
             },
             {
               "id": "01ab5623-9f1b-41be-943c-8a1ef4a540f9",
@@ -67,7 +67,7 @@
               "description": "深入了解如何徹底摧伏瞋心",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=bGaxZDOlHAQ",
-              "estimated_time": 25
+              "estimated_time": 12-15
             },
             {
               "id": "309f9686-af6f-47b7-ab85-cf98a1004f63",
@@ -75,7 +75,7 @@
               "description": "將智慧融入日常生活的實踐",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=O4e1x4p2E7Q",
-              "estimated_time": 20
+              "estimated_time": 1
             },
             {
               "id": "3841209d-ceb5-472e-926e-d18c9c0384da",
@@ -83,7 +83,7 @@
               "description": "今日的實踐任務",
               "content_type": "IMAGE",
               "content": "https://drive.google.com/uc?export=view&id=1uR8FuL-ym27wPv9Hw7hM53r0MoPiQ8yV",
-              "estimated_time": 15
+              "estimated_time": 1
             }
           ]
         }
