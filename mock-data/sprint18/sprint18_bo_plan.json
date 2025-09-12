@@ -2,8 +2,8 @@
   "plans": [
     {
       "id": "250ff1fd-b309-4221-8de2-a43ffddffeb6",
-      "title": "སྨན་བླ་སོ་བ་རིག་འཛིན། - ཟླ་བ་བཅོ་བརྒྱད་པ།",
-      "description": "ཉིན་ལྔའི་སྨན་བླ་སོ་བ་རིག་འཛིན་གྱི་སྒྲུབ་ཐབས། ཉིན་རེའི་རྩ་ཚིགས་དང་། ཞིབ་གཟིགས། སྒོམ་སྒྲུབ། བཟླས་པ། ཉིན་རེའི་ལས་ཀ་བཅས་ཡོད།",
+      "title": " ཉིན་ལྔ་སྨན་བླའི་འོད་ཀྱི་གསོ་བའི་ཉམས་ལེན།",
+      "description": "ཉིན་ལྔ་སྨན་བླའི་འོད་ཀྱི་གསོ་བའི་ཉམས་ལེན། ཉིན་རེའི་རྩ་ཚིགས་དང་། ཞིབ་གཟིགས། སྒོམ་སྒྲུབ། བཟླས་པ། ཉིན་རེའི་ལས་ཀ་བཅས་ཡོད།",
       "image_url": "https://example.com/sprint18-medicine-buddha-bo.jpg",
       "total_days": 5,
       "status": "PUBLISHED",
@@ -12,23 +12,23 @@
         {
           "id": "2cea5787-367c-46a2-a958-d2bf22b4e6c0",
           "day_number": 1,
-          "title": "གཟའ་པ་སངས། - བགེགས་སེལ་སྲུང་སྐྱོབ།",
+          "title": " ཉིན་དང་པོ། སྨན་བླའི་སྔགས་ཀྱི་བྱུང་རིམ་དང་ཕན་ཡོན། ",
           "tasks": [
             {
               "id": "545400d5-b08d-48b2-a8b6-8b90d5d5560e",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "བགེགས་སེལ་སྲུང་སྐྱོབ་ཀྱི་ཤེས་རབ།",
+              "description": " སྨན་བླའི་སྔགས་ཀྱི་ཕན་ཡོན། ",
               "content_type": "TEXT",
               "content": "དགྲ་དང་གནོད་པ་ནད་རིམས་བཟློག་པ་དང་། །\nའཐབ་རྩོད་ཀུན་ཞི་ལུས་སེམས་བདེ་བ་རྒྱས། །\nལོངས་སྤྱོད་དབང་ཕྱུག་ནོར་འབྲུ་ཚེ་འཕེལ་ཞིང་། །\nབསམ་པའི་དོན་རྣམས་ཡིད་བཞིན་འགྲུབ་པ་དང་། །\nརྟག་ཏུ་བསྲུང་སྐྱོབ་གཡེལ་བ་མེད་པར་མཛོད། །",
-              "estimated_time": 10
+              "estimated_time": 2
             },
             {
               "id": "757f96c3-1f0f-49f9-9869-77a52752d9dd",
               "title": "ཞིབ་གཟིགས།",
-              "description": "སྨན་བླ་སྒྲུབ་ཐབས་ཀྱི་གཞུང་འཆད།",
+              "description": " སྨན་བླའི་སྔགས་ཀྱི་བྱུང་རིམ་དང་ཕན་ཡོན། ",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=H-2scl-X1m4",
-              "estimated_time": 25
+              "estimated_time": 5
             },
             {
               "id": "26daaaaf-c08a-4783-b33f-46ce1a9f3fc4",
@@ -36,7 +36,7 @@
               "description": "སྨན་བླ་བསྒོམ་པའི་ཉམས་ལེན།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=y2CF0bZ2k-U",
-              "estimated_time": 20
+              "estimated_time": 5
             },
             {
               "id": "db9a6acf-4e6a-43d8-8730-90c164c9ef67",
@@ -44,38 +44,38 @@
               "description": "སྨན་བླ་གསང་སྔགས་བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
-              "estimated_time": 15
+              "estimated_time": 4
             },
             {
               "id": "dd8e4b1d-538c-497f-92d2-2a9fb95fca43",
-              "title": "今日任務",
-              "description": "ཉིན་རེའི་ཉམས་ལེན་གྱི་ལས་ཀ།",
+              "title": " ཉམས་ལེན་དངོས། ",
+              "description": ཆུ་སྨན་གྱི་བདུད་རྩིར་སྒྱུར་བའི་ཐབས་ལམ། ",
               "content_type": "IMAGE",
               "content": "https://drive.google.com/uc?export=view&id=1LX7smXG5sksg7r3RP0QNPPHlPPcdKXhF",
-              "estimated_time": 10
+              "estimated_time": 2
             }
           ]
         },
         {
           "id": "25ba789f-568b-4e13-8973-79d092265505",
           "day_number": 2,
-          "title": "གཟའ་སྤེན་པ། - བཻཌཱུརྱའི་འོད།",
+          "title": "ཉིན་གཉིས་པ། དུག་གསུམ་ངོས་འཛིན་པ་དང་དུག་གསུམ་ནད་སེལ།",
           "tasks": [
             {
               "id": "9e9b6cb1-e3d7-4b5d-b278-bbd4b196f40c",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "བཻཌཱུརྱའི་འོད་ཀྱི་ཤེས་རབ།",
+              "description": "དུག་གསུམ་ནད་སེལ། ",
               "content_type": "TEXT",
               "content": "ཐུགས་རྗེ་ཀུན་ལ་སྙོམས་པའི་བཅོམ་ལྡན་འདས། །\nམཚན་ཙམ་ཐོས་པས་ངན་འགྲོའི་སྡུག་བསྔལ་སེལ། །\nདུག་གསུམ་ནད་སེལ་སངས་རྒྱས་སྨན་གྱི་བླ། །\nབཻཌཱུརྱ་ཡི་འོད་ལ་གསོལ་བ་འདེབས། །",
-              "estimated_time": 10
+              "estimated_time": 2
             },
             {
               "id": "4bc1546f-41ca-414a-835b-74b1ccd52579",
               "title": "ཞིབ་གཟིགས།",
-              "description": "སྨན་བླ་སྒྲུབ་ཐབས་ཀྱི་གཞུང་འཆད།",
+              "description": " དུག་གསུམ་ངོས་འཛིན་པ། ",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=OxLcJWbr3r0",
-              "estimated_time": 25
+              "estimated_time": 5
             },
             {
               "id": "744f26d5-8994-4dfc-918c-76aae3b69fa6",
@@ -83,7 +83,7 @@
               "description": "སྨན་བླ་བསྒོམ་པའི་ཉམས་ལེན།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=b5QfI3pTREw",
-              "estimated_time": 20
+              "estimated_time": 5
             },
             {
               "id": "287a1c05-b675-4b08-94f7-0c852962f2ac",
@@ -91,38 +91,38 @@
               "description": "སྨན་བླ་གསང་སྔགས་བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
-              "estimated_time": 15
+              "estimated_time": 4
             },
             {
               "id": "a2f360f7-af89-4dbd-a784-dd08f845b217",
-              "title": "今日任務",
-              "description": "ཉིན་རེའི་ཉམས་ལེན་གྱི་ལས་ཀ།",
+              "title": " ཉམས་ལེན་དངོས། ",
+              "description": " ཆུ་སྨན་གྱི་བདུད་རྩིར་སྒྱུར་བའི་ཐབས་ལམ།",
               "content_type": "IMAGE",
               "content": "https://drive.google.com/uc?export=view&id=1LX7smXG5sksg7r3RP0QNPPHlPPcdKXhF",
-              "estimated_time": 10
+              "estimated_time": 2
             }
           ]
         },
         {
           "id": "5ebc0d57-c591-449b-8a99-933dfa8af3c7",
           "day_number": 3,
-          "title": "གཟའ་ཉི་མ། - རྫོགས་པའི་སྒྲུབ་ཐབས།",
+          "title": " ཉིན་གསུམ་པ། སེམས་ཀྱི་སྡུག་བསྔལ་གསོ་བ། ",
           "tasks": [
             {
               "id": "a2d8eece-df73-4833-b267-d73c2ca5ed34",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "རྫོགས་པའི་སྨན་བླ་གསང་སྔགས།",
+              "description": "སྨན་བླ་གསང་སྔགས།",
               "content_type": "TEXT",
               "content": "ཏདྱཐཱ།   ཨོཾ་  བྷཻཥཛྱེ་  བྷཻཥཛྱེ་  མཧཱ་  བྷཻཥཛྱེ་  བྷཻཥཛྱེ་  རཱཇཱཡ་  སམུདྒཏེ་  སྭཱཧཱ།",
-              "estimated_time": 10
+              "estimated_time": 2
             },
             {
               "id": "eeec6f9c-b621-46b7-874d-874bb5b6c1ee",
               "title": "ཞིབ་གཟིགས།",
-              "description": "སྨན་བླ་སྒྲུབ་ཐབས་ཀྱི་གཞུང་འཆད།",
+              "description": " སྨན་བླ་གསང་སྔགས་འདིའི་དོན། ",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=RxzYBQ_KD50",
-              "estimated_time": 25
+              "estimated_time": 5
             },
             {
               "id": "11db51bd-c670-4c7f-89e7-2f48d7ef858c",
@@ -130,7 +130,7 @@
               "description": "སྨན་བླ་བསྒོམ་པའི་ཉམས་ལེན།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=-IS9FPHRy0o",
-              "estimated_time": 20
+              "estimated_time": 5
             },
             {
               "id": "7b786934-f3be-44a3-b520-6737f411bf35",
@@ -138,38 +138,38 @@
               "description": "སྨན་བླ་གསང་སྔགས་བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
-              "estimated_time": 15
+              "estimated_time": 4
             },
             {
               "id": "a846645f-ce94-4efb-b3e4-1c37cc8565d5",
-              "title": "今日任務",
-              "description": "ཉིན་རེའི་ཉམས་ལེན་གྱི་ལས་ཀ།",
+              "title": " ཉམས་ལེན་དངོས། ",
+              "description": " ཆུ་སྨན་གྱི་བདུད་རྩིར་སྒྱུར་བའི་ཐབས་ལམ། ",
               "content_type": "IMAGE",
               "content": "https://drive.google.com/uc?export=view&id=1LX7smXG5sksg7r3RP0QNPPHlPPcdKXhF",
-              "estimated_time": 10
+              "estimated_time": 2
             }
           ]
         },
         {
           "id": "9e0965c4-753a-4420-b4b5-8a058b25ad38",
           "day_number": 4,
-          "title": "གཟའ་ཟླ་བ། - སྨན་བླ་གསང་སྔགས།",
+          "title": " ཉིན་བཞི་པ། ལུས་ཀྱི་ན་ཚ་གསོ་བ། ",
           "tasks": [
             {
               "id": "c6bc8e44-ef4e-4283-b016-58fb522ef1aa",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "སྨན་བླ་གསང་སྔགས་ཀྱི་ཉིན་རེའི་ཤེས་རབ།",
+              "description": "སྨན་བླ་གསང་སྔགས།",
               "content_type": "TEXT",
               "content": "ཏདྱཐཱ།   ཨོཾ་  བྷཻཥཛྱེ་  བྷཻཥཛྱེ་  མཧཱ་  བྷཻཥཛྱེ་  བྷཻཥཛྱེ་  རཱཇཱཡ་  སམུདྒཏེ་  སྭཱཧཱ། ",
-              "estimated_time": 10
+              "estimated_time": 2
             },
             {
               "id": "df7f2584-13dd-43ff-a713-d2bb193d0552",
               "title": "ཞིབ་གཟིགས།",
-              "description": "སྨན་བླ་སྒྲུབ་ཐབས་ཀྱི་གཞུང་འཆད།",
+              "description": " ཡི་ཆད་ལུས་ལ་གནས་པའི་སྐབས།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=6F0ipKPUFCk",
-              "estimated_time": 25
+              "estimated_time": 2
             },
             {
               "id": "7b55763c-27e0-42dd-a5fa-b6d4b40e966a",
@@ -177,7 +177,7 @@
               "description": "སྨན་བླ་བསྒོམ་པའི་ཉམས་ལེན།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=xq095RzdX-k",
-              "estimated_time": 20
+              "estimated_time": 5
             },
             {
               "id": "e6a76073-191b-49cc-ae2c-499483a0ea4a",
@@ -185,22 +185,22 @@
               "description": "སྨན་བླ་གསང་སྔགས་བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
-              "estimated_time": 15
+              "estimated_time": 5
             },
             {
               "id": "1f595a5d-5303-4f76-a1da-94a2cdcb8c54",
-              "title": "今日任務",
-              "description": "ཉིན་རེའི་ཉམས་ལེན་གྱི་ལས་ཀ།",
+              "title": " ཉམས་ལེན་དངོས།",
+              "description": " ཆུ་སྨན་གྱི་བདུད་རྩིར་སྒྱུར་བའི་ཐབས་ལམ།",
               "content_type": "IMAGE",
               "content": "https://drive.google.com/uc?export=view&id=1LX7smXG5sksg7r3RP0QNPPHlPPcdKXhF",
-              "estimated_time": 10
+              "estimated_time": 2
             }
           ]
         },
         {
           "id": "bdf0d953-970c-4f7e-99b9-2c1200191b69",
           "day_number": 5,
-          "title": "གཟའ་མིག་དམར། - སོ་བའི་སྨོན་ལམ།",
+          "title": " ཉིན་ལྔ་པ། གཞན་གྱི་སྡུག་བསྔལ་སྡུག་གསོ་བ། ",
           "tasks": [
             {
               "id": "33a4f18c-67a2-4e53-bc2e-ad95635c1372",
@@ -208,15 +208,15 @@
               "description": "སོ་བའི་སྨོན་ལམ་གྱི་ཤེས་རབ།",
               "content_type": "TEXT",
               "content": "དགེ་བ་འདི་ཡིས་མྱུར་དུ་བདག །\nསངས་རྒྱས་སྨན་བླ་འགྲུབ་གྱུར་ནས།\nའགྲོ་བ་གཅིག་ཀྱང་མ་ལུས་པ།\nདེ་ཡི་ས་ལ་འགོད་པར་ཤོག\nསེམས་ཅན་ནད་པ་ཇི་སྙེད་པ།\nམྱུར་དུ་ནད་ལས་ཐར་གྱུར་ནས།\nའགྲོ་བའི་ནད་རྣམས་མ་ལུས་པ།\nརྟག་ཏུ་འབྱུང་བ་མེད་པར་ཤོག །",
-              "estimated_time": 10
+              "estimated_time": 2
             },
             {
               "id": "86c46413-4f99-409e-ad88-ab35443ec868",
               "title": "ཞིབ་གཟིགས།",
-              "description": "སྨན་བླ་སྒྲུབ་ཐབས་ཀྱི་གཞུང་འཆད།",
+              "description": "གཞན་གྱི་སྡུག་བསྔལ་སྡུག་གསོ་བ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=MpoCYjeHfvI",
-              "estimated_time": 25
+              "estimated_time": 5
             },
             {
               "id": "afe693e7-500a-4dd8-bee7-e914bba0e55c",
@@ -224,7 +224,7 @@
               "description": "སྨན་བླ་བསྒོམ་པའི་ཉམས་ལེན།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=ViJoFWcqSxk",
-              "estimated_time": 20
+              "estimated_time": 5
             },
             {
               "id": "f4270b70-ad5e-47b7-a5fc-9c7ac5a5f05c",
@@ -232,15 +232,15 @@
               "description": "སྨན་བླ་གསང་སྔགས་བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=xwHuaB4IAMc",
-              "estimated_time": 15
+              "estimated_time": 4
             },
             {
               "id": "931a1b40-cd88-472a-83da-876ce9221a9f",
-              "title": "今日任務",
-              "description": "ཉིན་རེའི་ཉམས་ལེན་གྱི་ལས་ཀ།",
+              "title": " ཉམས་ལེན་དངོས།",
+              "description": " ཆུ་སྨན་གྱི་བདུད་རྩིར་སྒྱུར་བའི་ཐབས་ལམ། ",
               "content_type": "IMAGE",
               "content": "https://drive.google.com/uc?export=view&id=1LX7smXG5sksg7r3RP0QNPPHlPPcdKXhF",
-              "estimated_time": 10
+              "estimated_time": 2
             }
           ]
         }
