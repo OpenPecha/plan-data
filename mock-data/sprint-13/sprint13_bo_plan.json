@@ -337,6 +337,53 @@
               "estimated_time": 5
             }
           ]
+        },
+        {
+          "id": "72df3d57-422d-420e-9025-bc611569a692",
+          "day_number": 8,
+          "title": "Sunday - Taking and Giving Practice",
+          "tasks": [
+            {
+              "id": "d47cd0f9-c869-4e2d-94cb-0d1d8049eb45",
+              "title": "ཉིན་རེའི་རྩ་ཚིགས།",
+              "description": "ཉིན་རེའི་རྩ་ཚིགས།",
+              "content_type": "TEXT",
+              "content": "དེ་དག་ཀུན་ཀྱང་ཆོས་བརྒྱད་ཀྱི། །\nརྟོག་པའི་དྲི་མས་མ་སྦགས་ཤིང༌། །\nཆོས་ཀུན་སྒྱུ་མར་ཤེས་པའི་བློས། །\nཞེན་མེད་འཆིང་བ་ལས་གྲོལ་ཤོག །",
+              "estimated_time": 10
+            },
+            {
+              "id": "0a8bc649-82cb-4718-a1eb-934ec582f5db",
+              "title": "ཞིབ་གཟིགས།",
+              "description": "ཞིབ་གཟིགས།",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=rwPWTkDq42Q",
+              "estimated_time": 20
+            },
+            {
+              "id": "cf58305e-e7c2-408c-869a-8660bfc2b691",
+              "title": "སྒོམ་སྒྲུབ།",
+              "description": "སྒོམ་སྒྲུབ།",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=skIsuX-UiNE",
+              "estimated_time": 15
+            },
+            {
+              "id": "c6c7091a-d4b2-4623-af3d-b43ccfb7268b",
+              "title": "བཟླས་པ།",
+              "description": "བཟླས་པ།",
+              "content_type": "VIDEO",
+              "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
+              "estimated_time": 10
+            },
+            {
+              "id": "823ca84e-94ee-499d-98c2-f9fa9f4ff685",
+              "title": "ཉམས་ལེན་དངོས།",
+              "description": "ཉམས་ལེན་དངོས།",
+              "content_type": "IMAGE",
+              "content": "https://drive.google.com/uc?export=view&id=1SfSZhKIn6dfYiuBhUPmBLO_rvCg0f8WH",
+              "estimated_time": 5
+            }
+          ]
         }
       ]
     }
