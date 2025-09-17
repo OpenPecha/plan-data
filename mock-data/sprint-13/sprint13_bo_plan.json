@@ -2,8 +2,8 @@
   "plans": [
     {
       "id": "0b2dcd32-5274-4a03-85c7-edcecdbd8f5d",
-      "title": " བློ་སྦྱོང་ཚིག་བརྒྱད་ཉམས་ལེན་བསྡུས་པ།",
-      "description": "འདི་ནི་རྗེ་བཙུན་ལངས་རི་ཐང་པ་ཆེན་པོའི་བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མའི་གདམས་ངག་ལ་བརྟེན་ནས་ཉིན་བརྒྱད་རིང་ལ་ཉམས་ལེན་བསྡུས་པ།"།",
+      "title": "བློ་སྦྱོང་ཚིག་བརྒྱད་ཉམས་ལེན་བསྡུས་པ།",
+      "description": "འདི་ནི་རྗེ་བཙུན་ལངས་རི་ཐང་པ་ཆེན་པོའི་བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མའི་གདམས་ངག་ལ་བརྟེན་ནས་ཉིན་བརྒྱད་རིང་ལ་ཉམས་ལེན་བསྡུས་པ།",
       "image_url": "https://example.com/sprint13-mind-training.jpg",
       "total_days": 8,
       "status": "PUBLISHED",
@@ -17,7 +17,7 @@
             {
               "id": "d3c42847-f4c5-40f2-840c-acbd2cdece10",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "Daily verse for mind training",
+              "description": "ཉིན་རེའི་རྩ་ཚིགས།",
               "content_type": "TEXT",
               "content": "བདག་ནི་སེམས་ཅན་ཐམས་ཅད་ལ། །་\nཡིད་བཞིན་ནོར་བུ་ལས་ལྷག་པའི། །\nདོན་མཆོག་སྒྲུབ་པའི་བསམ་པ་ཡིས། །\nརྟག་ཏུ་གཅེས་པར་འཛིན་པར་ཤོག །",
               "estimated_time": 3
@@ -25,7 +25,7 @@
             {
               "id": "838ec497-8ed6-4df8-affb-324eca753971",
               "title": "ཞིབ་གཟིགས།",
-              "description": "Video guidance for scripture study",
+              "description": "ཞིབ་གཟིགས།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=oFPVuddzCVA",
               "estimated_time": 4
@@ -33,7 +33,7 @@
             {
               "id": "fc434e75-c5be-428b-bb71-2b5e203adad3",
               "title": "སྒོམ་སྒྲུབ།",
-              "description": "Audio meditation practice",
+              "description": "སྒོམ་སྒྲུབ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=OhNwPPbTnBQ",
               "estimated_time": 3
@@ -41,7 +41,7 @@
             {
               "id": "362cb786-c02e-4c84-887f-843e2969a047",
               "title": "བཟླས་པ།",
-              "description": "Audio prayer practice",
+              "description": "བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
               "estimated_time": 4
@@ -49,9 +49,9 @@
             {
               "id": "c82fa55e-29f3-4b75-8c1a-cbf9153769a3",
               "title": "ཉམས་ལེན་དངོས།",
-              "description": "Visual mind training exercise",
+              "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1NyLBQBxWj7XvxgMsolPL4smsq6jsf_gr",
+              "content": "https://drive.google.com/uc?export=view&id=1LplUUkzqMi7v0Oqm4mchbIXXm-634yuZ",
               "estimated_time": 2
             }
           ]
@@ -64,41 +64,41 @@
             {
               "id": "de5dc268-06d1-4311-ad8e-cbf80a699d81",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "Daily verse for mind training",
+              "description": "ཉིན་རེའི་རྩ་ཚིགས།",
               "content_type": "TEXT",
               "content": "གང་དུ་སུ་དང་འགྲོགས་པའི་ཚེ། །\nབདག་ཉིད་ཀུན་ལས་དམན་བལྟ་ཞིང༌ །།་\nགཞན་ལ་བསམ་པ་ཐག་པ་ཡིས། །\nམཆོག་ཏུ་གཅེས་པར་འཛིན་པར་ཤོག །",
               "estimated_time": 10
             },
             {
               "id": "08d3ea64-2648-4ba4-b35f-e4b0fe735702",
-              "title": "Guided Scripture",
-              "description": "Video guidance for scripture study",
+              "title": "ཞིབ་གཟིགས།",
+              "description": "ཞིབ་གཟིགས།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=QeRTqpiNOac",
               "estimated_time": 20
             },
             {
               "id": "e95ee8d6-7c1c-4dee-a1d1-e5a2e3b479b4",
-              "title": "Meditation",
-              "description": "Audio meditation practice",
+              "title": "སྒོམ་སྒྲུབ།",
+              "description": "སྒོམ་སྒྲུབ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=IkdEbE-crPo",
               "estimated_time": 15
             },
             {
               "id": "df4212a6-ae60-4319-9996-e6bb1f876979",
-              "title": "Prayer",
-              "description": "Audio prayer practice",
+              "title": "བཟླས་པ།",
+              "description": "བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
               "estimated_time": 10
             },
             {
               "id": "bdfb9ff3-6868-4a57-8e29-67e347eeb93a",
-              "title": "Mind Training",
-              "description": "Visual mind training exercise",
+              "title": "ཉམས་ལེན་དངོས།",
+              "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=12dOj6QxJJIIrXrVGVNp8wZqgCMo1VAeI",
+              "content": "https://drive.google.com/uc?export=view&id=1Q3VbV2UFcpz_q91IBYSC1ptPW_dqEQo3",
               "estimated_time": 5
             }
           ]
@@ -111,41 +111,41 @@
             {
               "id": "d872268f-b81b-4d58-a166-94ca4bd9eec8",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "Daily verse for mind training",
+              "description": "ཉིན་རེའི་རྩ་ཚིགས།",
               "content_type": "TEXT",
               "content": "སྤྱོད་ལམ་ཀུན་ཏུ་རང་རྒྱུད་ལ། །\nརྟོག་ཅིང་ཉོན་མོངས་སྐྱེས་མ་ཐག །\nབདག་གཞན་མ་རུངས་བྱེད་པས་ན། །\nབཙན་ཐབས་གདོང་ནས་བཟློག་པར་ཤོག །",
               "estimated_time": 10
             },
             {
               "id": "7d469d93-7e53-44f8-94d4-d3230762b64e",
-              "title": "Guided Scripture",
-              "description": "Video guidance for scripture study",
+              "title": "ཞིབ་གཟིགས།",
+              "description": "ཞིབ་གཟིགས།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=xMM3cxZTLn0",
               "estimated_time": 20
             },
             {
               "id": "eae56b98-a1dc-4f6b-afc2-997a986d9277",
-              "title": "Meditation",
-              "description": "Audio meditation practice",
+              "title": "སྒོམ་སྒྲུབ།",
+              "description": "སྒོམ་སྒྲུབ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=FzMOV7FvQMM",
               "estimated_time": 15
             },
             {
               "id": "4e0e1b1d-1fdc-449b-9b87-e163d05f40cb",
-              "title": "Prayer",
-              "description": "Audio prayer practice",
+              "title": "བཟླས་པ།",
+              "description": "བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
               "estimated_time": 10
             },
             {
               "id": "680a07cf-f0b4-4508-a9b3-70f5c6a4cdd5",
-              "title": "Mind Training",
-              "description": "Visual mind training exercise",
+              "title": "ཉམས་ལེན་དངོས།",
+              "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1H57INwM15iFo4q96Zz6nJ90aMLkLDs2k",
+              "content": "https://drive.google.com/uc?export=view&id=1q9o4P42uheqWvpYBWysQyRDS7aWsPKys",
               "estimated_time": 5
             }
           ]
@@ -158,41 +158,41 @@
             {
               "id": "cdfda470-8cee-4180-ba24-d582bc0aa9d0",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "Daily verse for mind training",
+              "description": "ཉིན་རེའི་རྩ་ཚིགས།",
               "content_type": "TEXT",
               "content": "རང་བཞིན་ངན་པའི་སེམས་ཅན་རྣམས། །\nསྡིག་སྡུག་དྲག་པོས་ནོན་མཐོང་ཚེ། །\nརིན་ཆེན་གཏེར་དང་འཕྲད་པ་བཞིན། །\nརྙེད་པར་དཀའ་བས་གཅེས་འཛིན་ཤོག །",
               "estimated_time": 10
             },
             {
               "id": "624211d7-54ce-408f-b3ad-7fd8cbc72428",
-              "title": "Guided Scripture",
-              "description": "Video guidance for scripture study",
+              "title": "ཞིབ་གཟིགས།",
+              "description": "ཞིབ་གཟིགས།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=x5H104enZbE",
               "estimated_time": 20
             },
             {
               "id": "df7ff079-790f-4d53-9a80-5e3f2128df12",
-              "title": "Meditation",
-              "description": "Audio meditation practice",
+              "title": "སྒོམ་སྒྲུབ།",
+              "description": "སྒོམ་སྒྲུབ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=Se1uwhQVsNk",
               "estimated_time": 15
             },
             {
               "id": "174b6aea-e744-4ce6-9b60-15c1a4482d79",
-              "title": "Prayer",
-              "description": "Audio prayer practice",
+              "title": "བཟླས་པ།",
+              "description": "བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
               "estimated_time": 10
             },
             {
               "id": "6a485283-e11e-41a4-82ce-0b1b573a6bf2",
-              "title": "Mind Training",
-              "description": "Visual mind training exercise",
+              "title": "ཉམས་ལེན་དངོས།",
+              "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1emxylGrdOE_XTyk_BO33y3D9y8jdTb4f",
+              "content": "https://drive.google.com/uc?export=view&id=1WCzmyqyUzNSOZfs9z6Kr3rlRWZ1FRUsA",
               "estimated_time": 5
             }
           ]
@@ -205,41 +205,41 @@
             {
               "id": "938b71f0-ac2c-40a3-859f-cdab644f4f0b",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "Daily verse for mind training",
+              "description": "ཉམས་ལེན་དངོས།",
               "content_type": "TEXT",
               "content": "བདག་ལ་གཞན་གྱིས་ཕྲག་དོག་གིས། །\nགཤེ་བསྐུར་ལ་སོགས་མི་རིགས་པའི། །\nགྱོང་ཁ་རང་གིས་ལེན་པ་དང༌། །\nརྒྱལ་ཁ་གཞན་ལ་འབུལ་བར་ཤོག །",
               "estimated_time": 10
             },
             {
               "id": "87a5ce6b-9314-4b81-b9d7-a2745de0977c",
-              "title": "Guided Scripture",
-              "description": "Video guidance for scripture study",
+              "title": "ཞིབ་གཟིགས།",
+              "description": "ཞིབ་གཟིགས།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=Mx9_V88J0qA",
               "estimated_time": 20
             },
             {
               "id": "688850bd-238e-440a-a34b-269fa514f8fd",
-              "title": "Meditation",
-              "description": "Audio meditation practice",
+              "title": "སྒོམ་སྒྲུབ།",
+              "description": "སྒོམ་སྒྲུབ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=4N7YnzBcyA4",
               "estimated_time": 15
             },
             {
               "id": "d8a83723-142f-463b-a9a5-4d55a3fd6bed",
-              "title": "Prayer",
-              "description": "Audio prayer practice",
+              "title": "བཟླས་པ།",
+              "description": "བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
               "estimated_time": 10
             },
             {
               "id": "f0520d5c-cd77-4913-af48-7d2f61a2844e",
-              "title": "Mind Training",
-              "description": "Visual mind training exercise",
+              "title": "ཉམས་ལེན་དངོས།",
+              "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1VtuZwfKrqqGmhYvCt-pTMpWgpVy226SQ",
+              "content": "https://drive.google.com/uc?export=view&id=1IwSvDHTA8bv-4auqqnulqis5A2f3BySk",
               "estimated_time": 5
             }
           ]
@@ -252,41 +252,41 @@
             {
               "id": "c6bafaa4-30e9-4d7d-8beb-9fa3c228bd54",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "Daily verse for mind training",
+              "description": "ཉིན་རེའི་རྩ་ཚིགས།",
               "content_type": "TEXT",
               "content": "གང་ལ་བདག་གིས་ཕན་བཏགས་པའི། །\nརེ་བ་ཆེ་བ་གང་ཞིག་གིས། །\nཤིན་ཏུ་མི་རིགས་གནོད་བྱེད་ནའང༌། །\nབཤེས་གཉེན་དམ་པར་བལྟ་བར་ཤོག །",
               "estimated_time": 10
             },
             {
               "id": "6be2072a-930d-41e4-a345-90cdc26d3b88",
-              "title": "Guided Scripture",
-              "description": "Video guidance for scripture study",
+              "title": "ཞིབ་གཟིགས།",
+              "description": "ཞིབ་གཟིགས།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=h5nnBcgGXs4",
               "estimated_time": 20
             },
             {
               "id": "1d66ea3d-8dce-4981-a341-f26ac9f24369",
-              "title": "Meditation",
-              "description": "Audio meditation practice",
+              "title": "སྒོམ་སྒྲུབ།",
+              "description": "སྒོམ་སྒྲུབ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/shorts/Hd72cun2XYw",
               "estimated_time": 15
             },
             {
               "id": "c77163a6-cb20-44da-bbc1-5038866e8adf",
-              "title": "Prayer",
-              "description": "Audio prayer practice",
+              "title": "བཟླས་པ།",
+              "description": "བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
               "estimated_time": 10
             },
             {
               "id": "1b11bbd1-4b69-40d1-82ab-1d4850442f4e",
-              "title": "Mind Training",
-              "description": "Visual mind training exercise",
+              "title": "ཉམས་ལེན་དངོས།",
+              "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1ptszi2XwrWngbRKsL8KaM5lgD172RlN9",
+              "content": "https://drive.google.com/uc?export=view&id=169C5PkW32J8pkGT2dDtXHfRn5zompgi5",
               "estimated_time": 5
             }
           ]
@@ -299,41 +299,41 @@
             {
               "id": "b4c85c93-30ec-438c-81a6-4318deffce2e",
               "title": "ཉིན་རེའི་རྩ་ཚིགས།",
-              "description": "Daily verse for mind training",
+              "description": "ཉིན་རེའི་རྩ་ཚིགས།",
               "content_type": "TEXT",
               "content": "མདོར་ན་དངོས་སམ་བརྒྱུད་པ་ཡིས། །\nཕན་བདེ་མ་རྣམས་ཀུན་ལ་འབུལ། །\nམ་ཡི་གནོད་དང་སྡུག་བསྔལ་ཀུན། །\nགསང་བས་བདག་ལ་ལེན་པར་ཤོག །",
               "estimated_time": 10
             },
             {
               "id": "e8c3aa8e-50d8-442e-99c6-3020709dc8fa",
-              "title": "Guided Scripture",
-              "description": "Video guidance for scripture study",
+              "title": "ཞིབ་གཟིགས།",
+              "description": "ཞིབ་གཟིགས།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=8xJGAXUe2i4",
               "estimated_time": 20
             },
             {
               "id": "1e0cc375-382b-4c11-b39c-192ed62123bd",
-              "title": "Meditation",
-              "description": "Audio meditation practice",
+              "title": "སྒོམ་སྒྲུབ།",
+              "description": "སྒོམ་སྒྲུབ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=jQdewDno-3s",
               "estimated_time": 15
             },
             {
               "id": "2f1dd486-493c-4d22-c49d-203fe73234ce",
-              "title": "Prayer",
-              "description": "Audio prayer practice",
+              "title": "བཟླས་པ།",
+              "description": "བཟླས་པ།",
               "content_type": "VIDEO",
               "content": "https://www.youtube.com/watch?v=mW7xLALjfng",
               "estimated_time": 10
             },
             {
               "id": "3a2ee597-5a4d-4e33-d5ae-314af84345df",
-              "title": "Mind Training",
-              "description": "Visual mind training exercise",
+              "title": "ཉམས་ལེན་དངོས།",
+              "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1Zb55rkPwlZp9_FjZrFFPPCw0tDkTqSa2",
+              "content": "https://drive.google.com/uc?export=view&id=1L5o-RkyAhhCpmmKWswfGaDo2_BDz5hRX",
               "estimated_time": 5
             }
           ]

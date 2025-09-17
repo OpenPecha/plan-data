@@ -5,105 +5,10 @@
       "title": "聖救度母修持法",
       "description": "五天的聖救度母修持法，包含今日偈頌、深入了解、禪修、持誦和融入生活",
       "image_url": "https://example.com/sprint15-tara-practice-zh.jpg",
-      "total_days": 7,
+      "total_days": 5,
       "status": "PUBLISHED",
       "subscription_count": 32,
       "days": [
-        {
-          "id": "3d9306b8-195d-4953-970c-f7b5f9de25e0",
-          "day_number": 4,
-          "title": "週一 - 消除苦惱",
-          "tasks": [
-            {
-              "id": "c5dbc672-60ae-4bd8-8fca-324698d24ae2",
-              "title": "今日偈頌",
-              "description": "聖救度母每日偈頌",
-              "content_type": "TEXT",
-              "content": "或見他人遭鬼魅\n或發熱病受諸苦\n彼諸苦惱悉蠲除\n若轉此讚二、三、 七",
-              "estimated_time": 1
-            },
-            {
-              "id": "68cb6b20-65d8-4f6d-8b5b-ed2852e3457b",
-              "title": "深入了解",
-              "description": "聖救度母修持法的視頻教學",
-              "content_type": "VIDEO",
-              "content": "https://www.youtube.com/watch?v=qMQmBHMdeOw",
-              "estimated_time": 5
-            },
-            {
-              "id": "2d260e0e-8556-47e5-9141-2fb9cb366b72",
-              "title": "禪修",
-              "description": "禪修",
-              "content_type": "VIDEO",
-              "content": "https://www.youtube.com/shorts/oA4PcFZrCJ0",
-              "estimated_time": 3
-            },
-            {
-              "id": "68de0450-ea1f-417e-aaca-28a24dda3c21",
-              "title": "持誦",
-              "description": "持誦",
-              "content_type": "VIDEO",
-              "content": "https://www.youtube.com/watch?v=ILhNZlSWeqU",
-              "estimated_time": 3
-            },
-            {
-              "id": "c0aa80d1-7fbd-410a-b43b-b8f8cc02e876",
-              "title": "融入生活",
-              "description": "融入生活",
-              "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=13SCE09UaRtoLZQCUyRPMaGpCMF1b8kLy",
-              "estimated_time": 1
-            }
-          ]
-        },
-        {
-          "id": "e7db45a9-2a41-4d13-8418-d0fc2c1c39fb",
-          "day_number": 5,
-          "title": "週二 - 圓滿願望",
-          "tasks": [
-            {
-              "id": "48c55366-380c-4977-9f12-33bdf28e7581",
-              "title": "今日偈頌",
-              "description": "聖救度母每日偈頌",
-              "content_type": "TEXT",
-              "content": "欲男女得男女\n求財寶位獲富饒\n善能圓滿隨意願\n一切障礙不能侵",
-              "estimated_time": 1
-            },
-            {
-              "id": "25b48505-9115-408d-9ca8-d956ce2242f6",
-              "title": "深入了解",
-              "description": "深入了解",
-              "content_type": "VIDEO",
-              "content": "https://www.youtube.com/watch?v=EWrMyke5QTM",
-              "estimated_time": 8
-            },
-            {
-              "id": "de19b603-f57e-44ab-b32b-bebd8c307e28",
-              "title": "禪修",
-              "description": "禪修",
-              "content_type": "VIDEO",
-              "content": "https://www.youtube.com/shorts/NgxVs6CvT4U",
-              "estimated_time": 3
-            },
-            {
-              "id": "b9b5ac52-530e-4ab4-987a-3523e4980050",
-              "title": "持誦",
-              "description": "持誦",
-              "content_type": "VIDEO",
-              "content": "https://www.youtube.com/watch?v=ILhNZlSWeqU",
-              "estimated_time": 3
-            },
-            {
-              "id": "d59c5e64-5a33-4221-b069-37a106a27db0",
-              "title": "融入生活",
-              "description": "融入生活",
-              "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1JCYlNX_SLrf46PmgETGSoKFWojIdc0e7",
-              "estimated_time": 1
-            }
-          ]
-        },
-
         {
           "id": "7b8450cf-8cdc-4d35-9d95-6f08eaada6e4",
           "day_number": 1,
@@ -242,6 +147,100 @@
               "content_type": "IMAGE",
               "content": "https://drive.google.com/uc?export=view&id=1i3qQ7EFbt0rKQU_2KGWeY3RAHrX2VcI3",
               "estimated_time": 1
+            },
+            {
+              "id": "3d9306b8-195d-4953-970c-f7b5f9de25e0",
+              "day_number": 4,
+              "title": "週一 - 消除苦惱",
+              "tasks": [
+                {
+                  "id": "c5dbc672-60ae-4bd8-8fca-324698d24ae2",
+                  "title": "今日偈頌",
+                  "description": "聖救度母每日偈頌",
+                  "content_type": "TEXT",
+                  "content": "或見他人遭鬼魅\n或發熱病受諸苦\n彼諸苦惱悉蠲除\n若轉此讚二、三、 七",
+                  "estimated_time": 1
+                },
+                {
+                  "id": "68cb6b20-65d8-4f6d-8b5b-ed2852e3457b",
+                  "title": "深入了解",
+                  "description": "聖救度母修持法的視頻教學",
+                  "content_type": "VIDEO",
+                  "content": "https://www.youtube.com/watch?v=qMQmBHMdeOw",
+                  "estimated_time": 5
+                },
+                {
+                  "id": "2d260e0e-8556-47e5-9141-2fb9cb366b72",
+                  "title": "禪修",
+                  "description": "禪修",
+                  "content_type": "VIDEO",
+                  "content": "https://www.youtube.com/shorts/oA4PcFZrCJ0",
+                  "estimated_time": 3
+                },
+                {
+                  "id": "68de0450-ea1f-417e-aaca-28a24dda3c21",
+                  "title": "持誦",
+                  "description": "持誦",
+                  "content_type": "VIDEO",
+                  "content": "https://www.youtube.com/watch?v=ILhNZlSWeqU",
+                  "estimated_time": 3
+                },
+                {
+                  "id": "c0aa80d1-7fbd-410a-b43b-b8f8cc02e876",
+                  "title": "融入生活",
+                  "description": "融入生活",
+                  "content_type": "IMAGE",
+                  "content": "https://drive.google.com/uc?export=view&id=13SCE09UaRtoLZQCUyRPMaGpCMF1b8kLy",
+                  "estimated_time": 1
+                }
+              ]
+            },
+            {
+              "id": "e7db45a9-2a41-4d13-8418-d0fc2c1c39fb",
+              "day_number": 5,
+              "title": "週二 - 圓滿願望",
+              "tasks": [
+                {
+                  "id": "48c55366-380c-4977-9f12-33bdf28e7581",
+                  "title": "今日偈頌",
+                  "description": "聖救度母每日偈頌",
+                  "content_type": "TEXT",
+                  "content": "欲男女得男女\n求財寶位獲富饒\n善能圓滿隨意願\n一切障礙不能侵",
+                  "estimated_time": 1
+                },
+                {
+                  "id": "25b48505-9115-408d-9ca8-d956ce2242f6",
+                  "title": "深入了解",
+                  "description": "深入了解",
+                  "content_type": "VIDEO",
+                  "content": "https://www.youtube.com/watch?v=EWrMyke5QTM",
+                  "estimated_time": 8
+                },
+                {
+                  "id": "de19b603-f57e-44ab-b32b-bebd8c307e28",
+                  "title": "禪修",
+                  "description": "禪修",
+                  "content_type": "VIDEO",
+                  "content": "https://www.youtube.com/shorts/NgxVs6CvT4U",
+                  "estimated_time": 3
+                },
+                {
+                  "id": "b9b5ac52-530e-4ab4-987a-3523e4980050",
+                  "title": "持誦",
+                  "description": "持誦",
+                  "content_type": "VIDEO",
+                  "content": "https://www.youtube.com/watch?v=ILhNZlSWeqU",
+                  "estimated_time": 3
+                },
+                {
+                  "id": "d59c5e64-5a33-4221-b069-37a106a27db0",
+                  "title": "融入生活",
+                  "description": "融入生活",
+                  "content_type": "IMAGE",
+                  "content": "https://drive.google.com/uc?export=view&id=1JCYlNX_SLrf46PmgETGSoKFWojIdc0e7",
+                  "estimated_time": 1
+                }
+              ]
             }
           ]
         }

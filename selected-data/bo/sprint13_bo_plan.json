@@ -2,8 +2,8 @@
   "plans": [
     {
       "id": "0b2dcd32-5274-4a03-85c7-edcecdbd8f5d",
-      "title": "བློ་སྦྱོང་ཚིགས་བརྒྱད་ཉམས་ལེན་སྡུས་པ།",
-      "description": "འདི་ནི་རྗེ་བཙུན་ལངས་རི་ཐང་པ་ཆེན་པོའི་བློ་སྦྱོང་ཚིགས་རྐང་བརྒྱད་མའི་གདམས་ངག་ལ་བརྟེན་ནས་ཉིན་བརྒྱད་རིང་ལ་ཉམས་ལེན་འཆར་ཞིག་ཡིན།",
+      "title": "བློ་སྦྱོང་ཚིག་བརྒྱད་ཉམས་ལེན་བསྡུས་པ།",
+      "description": "འདི་ནི་རྗེ་བཙུན་ལངས་རི་ཐང་པ་ཆེན་པོའི་བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མའི་གདམས་ངག་ལ་བརྟེན་ནས་ཉིན་བརྒྱད་རིང་ལ་ཉམས་ལེན་བསྡུས་པ།",
       "image_url": "https://example.com/sprint13-mind-training.jpg",
       "total_days": 8,
       "status": "PUBLISHED",
@@ -51,7 +51,7 @@
               "title": "ཉམས་ལེན་དངོས།",
               "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1NyLBQBxWj7XvxgMsolPL4smsq6jsf_gr",
+              "content": "https://drive.google.com/uc?export=view&id=1LplUUkzqMi7v0Oqm4mchbIXXm-634yuZ",
               "estimated_time": 2
             }
           ]
@@ -98,7 +98,7 @@
               "title": "ཉམས་ལེན་དངོས།",
               "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=12dOj6QxJJIIrXrVGVNp8wZqgCMo1VAeI",
+              "content": "https://drive.google.com/uc?export=view&id=1Q3VbV2UFcpz_q91IBYSC1ptPW_dqEQo3",
               "estimated_time": 5
             }
           ]
@@ -145,7 +145,7 @@
               "title": "ཉམས་ལེན་དངོས།",
               "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1H57INwM15iFo4q96Zz6nJ90aMLkLDs2k",
+              "content": "https://drive.google.com/uc?export=view&id=1q9o4P42uheqWvpYBWysQyRDS7aWsPKys",
               "estimated_time": 5
             }
           ]
@@ -192,7 +192,7 @@
               "title": "ཉམས་ལེན་དངོས།",
               "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1emxylGrdOE_XTyk_BO33y3D9y8jdTb4f",
+              "content": "https://drive.google.com/uc?export=view&id=1WCzmyqyUzNSOZfs9z6Kr3rlRWZ1FRUsA",
               "estimated_time": 5
             }
           ]
@@ -239,7 +239,7 @@
               "title": "ཉམས་ལེན་དངོས།",
               "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1VtuZwfKrqqGmhYvCt-pTMpWgpVy226SQ",
+              "content": "https://drive.google.com/uc?export=view&id=1IwSvDHTA8bv-4auqqnulqis5A2f3BySk",
               "estimated_time": 5
             }
           ]
@@ -286,7 +286,7 @@
               "title": "ཉམས་ལེན་དངོས།",
               "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1ptszi2XwrWngbRKsL8KaM5lgD172RlN9",
+              "content": "https://drive.google.com/uc?export=view&id=169C5PkW32J8pkGT2dDtXHfRn5zompgi5",
               "estimated_time": 5
             }
           ]
@@ -333,7 +333,7 @@
               "title": "ཉམས་ལེན་དངོས།",
               "description": "ཉམས་ལེན་དངོས།",
               "content_type": "IMAGE",
-              "content": "https://drive.google.com/uc?export=view&id=1Zb55rkPwlZp9_FjZrFFPPCw0tDkTqSa2",
+              "content": "https://drive.google.com/uc?export=view&id=1L5o-RkyAhhCpmmKWswfGaDo2_BDz5hRX",
               "estimated_time": 5
             }
           ]
