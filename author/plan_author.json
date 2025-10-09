@@ -1,0 +1,111 @@
+{
+  "authors": [
+    {
+      "id": "15ad1a10-48fe-4fd9-980d-59f8e88dfe98",
+      "firstname": "Jay",
+      "lastname": "",
+      "email": "",
+      "avatar_url": "",
+      "bio": "希望能把佛法的內容以現代化的方式，傳達給所有對佛法有興趣的人。",
+      "social_profiles": [
+        {
+          "account": "instagram",
+          "url": "https://www.instagram.com/manjushri.foreveryoung?igsh=N3hvZ3B3OHI2a2E0&utm_source=qr"
+        }
+      ],
+      "plans": [
+        {
+          "id": "db5248c4-6f74-4ebb-a17c-6e0cc5417d07"
+        }
+      ]
+    },
+    {
+      "id": "f2ef5c5e-b206-4102-aae5-b92fce713c44",
+      "firstname": "Yeshi",
+      "lastname": "Lhundrup",
+      "email": "",
+      "avatar_url": "",
+      "bio": "ཡེ་ཤེས་ལྷུན་གྲུབ་ནི་ནང་པ་ཞིག་ཡིན་པ་དང་། ཁོང་གིས་དབྱིན་ཡིག་ཐོག་ཏུ་བརྩེ་བ་དང་ཤེས་རབ་གཉིས་བསྡོམས་ན་བདེ་བ་ཡིན་ཞེས་པའི་དེབ་ཅིག་བྲིས་ཡོད།",
+      "social_profiles": [
+        {
+          "account": "facebook",
+          "url": "https://www.facebook.com/yedup007"
+        }
+      ],
+      "plans": [
+        {
+          "id": "0b2dcd32-5274-4a03-85c7-edcecdbd8f5d"
+        },
+        {
+          "id": "3bf92af3-78d0-4214-a29d-c5cb986c152b"
+        }
+      ]
+    },
+    {
+      "id": "0e95511a-0a9f-43c6-a5fd-cdf0657eaa6e",
+      "firstname": "堪布昂文克周",
+      "lastname": "",
+      "email": "",
+      "avatar_url": "",
+      "bio": "堪布昂文克周出生於西藏結古多。目前於台灣國際藏傳佛教研究會擔任副主席一職。在1998年至2001間的三年三月加三天完成完整的閉關修行。2001年，進入宗薩欽哲確吉羅卓學院，於堪仁波切貢嘎旺秋和其他著名上師，在大師的指導下開始學習五部大論等跟高等佛教哲學。2016年第十七世噶瑪巴授予「堪布」證書。",
+      "social_profiles": [
+        {
+          "account": "instagram",
+          "url": "https://www.instagram.com/angwen9?igsh=NWw4MGVqaGRxcmpj"
+        }
+      ],
+      "plans": [
+        {
+          "id": "cdf93d39-9428-4fe2-9b3e-5a05a98189eb"
+        }
+      ]
+    },
+    {
+      "id": "1735ad01-b866-4839-946e-169872120d96",
+      "firstname": "格西索南貢布（諾諾格西）",
+      "lastname": "",
+      "email": "",
+      "avatar_url": "",
+      "bio": "索南貢布（sonam gonpo），1969年出生，1992年進入南印度色拉傑寺佛學院（serajey monastery）學習五部大論等各種佛法知識，2009年取得格西學位。2010年進入下密院學習密法。2011年有幸參加了尊者辦公室為有中文基礎的格西，特別開設為期三年的中文佛法介紹培訓課程，在此期間也同時學習到了孔子、孟子等聖賢教論。隨後經色拉傑寺派駐台灣色拉傑遍知佛學會，擔任當家格西；卸任後應邀為臺北市明覺佛學會常住當家格西，並為台灣國際藏傳佛教研究會組成成員之一，2024年獲聘任為臺灣格魯總會名譽理事長",
+      "social_profiles": [
+        {
+          "account": "facebook",
+          "url": "https://www.facebook.com/gelukofunion/"
+        }
+      ],
+      "plans": [
+        {
+          "id": "8808f25e-5013-41c8-95b9-5df7f6e80cc4"
+        }
+      ]
+    },
+    {
+      "id": "98b5d4a7-c693-4409-8eab-34712a47c92f",
+      "firstname": "Kevin",
+      "lastname": "",
+      "email": "",
+      "avatar_url": "",
+      "bio": "大家好，我是Kevin，願正法久住世間。 Namaskaram🙏🙏🙏 I'm Kevin. Sarva Mangalam !!!",
+      "social_profiles": [],
+      "plans": [
+        {
+          "id": "9c6877c4-5e07-4e34-ad62-f085cb63b0f9"
+        }
+      ]
+    },
+    {
+      "id": "808f2d7b-8eeb-4d1c-9e97-a634f528e181",
+      "firstname": "史嘉章(Deva)",
+      "lastname": "",
+      "email": "",
+      "avatar_url": "",
+      "bio": "- 現任悉達多本願會指導老師- 一名退休的中學老師。從小到大的生活中，反復經驗著短暫的幸福，卻始終逃離不了破滅及生離死別宿命的痛苦。如果我人生中沒有遇見宗薩欽哲仁波切，我生命所承受種種的痛無法輕易的撫平，我很可能是個對人生茫然無趣，是個失神落魄的酒鬼。我知道的很少，若我的修行懶散及所犯下的種種傷害人的錯誤，若能警惕自己及他人引以為鑒，這也許是我唯一可以做的。願此生有意義的活，無憾的死。",
+      "social_profiles": [],
+      "plans": [
+        {
+          "id": "6f86b2e0-9319-4b71-8529-120547015511"
+        }
+      ]
+    }
+  ]
+}
